@@ -1,0 +1,1485 @@
+Metabolites:
+ID: biomass, Name: , Formula: None, Compartment: None
+ID: protein_biomass, Name: , Formula: None, Compartment: None
+ID: mRNA_biomass, Name: , Formula: None, Compartment: None
+ID: tRNA_biomass, Name: , Formula: None, Compartment: None
+ID: rRNA_biomass, Name: , Formula: None, Compartment: None
+ID: ncRNA_biomass, Name: , Formula: None, Compartment: None
+ID: DNA_biomass, Name: , Formula: None, Compartment: None
+ID: lipid_biomass, Name: , Formula: None, Compartment: None
+ID: constituent_biomass, Name: , Formula: None, Compartment: None
+ID: prosthetic_group_biomass, Name: , Formula: None, Compartment: None
+ID: peptidoglycan_biomass, Name: , Formula: None, Compartment: None
+ID: 10fthf_c, Name: 10-Formyltetrahydrofolate, Formula: C20H21N7O7, Compartment: c
+ID: 13dpg_c, Name: 3-Phospho-D-glyceroyl phosphate, Formula: C3H4O10P2, Compartment: c
+ID: 14dhncoa_c, Name: 14dhncoa, Formula: C32H38N7O19P3S, Compartment: c
+ID: 1ag3p_SC_c, Name: 1ag3p-SC, Formula: C1920H3622O700P100, Compartment: c
+ID: 1ddecg3p_c, Name: 1-dodecanoyl-sn-glycerol 3-phosphate, Formula: C15H29O7P1, Compartment: c
+ID: 1hdec9eg3p_c, Name: 1-hexadec-9-enoyl-sn-glycerol 3-phosphate, Formula: C19H35O7P1, Compartment: c
+ID: 1hdecg3p_c, Name: 1-hexadecanoyl-sn-glycerol 3-phosphate, Formula: C19H37O7P1, Compartment: c
+ID: 1odec11eg3p_c, Name: 1-octadec-11-enoyl-sn-glycerol 3-phosphate, Formula: C21H39O7P1, Compartment: c
+ID: 1odecg3p_c, Name: 1-octadecanoyl-sn-glycerol 3-phosphate, Formula: C21H41O7P1, Compartment: c
+ID: 1pyr5c_c, Name: 1-Pyrroline-5-carboxylate, Formula: C5H6NO2, Compartment: c
+ID: 1tdec7eg3p_c, Name: 1-tetradec-7-enoyl-sn-glycerol 3-phosphate, Formula: C17H31O7P1, Compartment: c
+ID: 1tdecg3p_c, Name: 1-tetradecanoyl-sn-glycerol 3-phosphate, Formula: C17H33O7P1, Compartment: c
+ID: 23dhacoa_c, Name: 23dhacoa, Formula: C27H37N7O19P3S, Compartment: c
+ID: 23dhdp_c, Name: 2,3-Dihydrodipicolinate, Formula: C7H5NO4, Compartment: c
+ID: 23dhmb_c, Name: (R)-2,3-Dihydroxy-3-methylbutanoate, Formula: C5H9O4, Compartment: c
+ID: 23dhmp_c, Name: (R)-2,3-Dihydroxy-3-methylpentanoate, Formula: C6H11O4, Compartment: c
+ID: 25aics_c, Name: (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate, Formula: C13H15N4O12P, Compartment: c
+ID: 25drapp_c, Name: 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate, Formula: C9H14N5O8P, Compartment: c
+ID: 26dap_LL_c, Name: LL-2,6-Diaminoheptanedioate, Formula: C7H14N2O4, Compartment: c
+ID: 26dap__M_c, Name: meso-2,6-Diaminoheptanedioate, Formula: C7H14N2O4, Compartment: c
+ID: 26dap__M_e, Name: meso-2,6-Diaminoheptanedioate, Formula: C7H14N2O4, Compartment: e
+ID: 2ahbut_c, Name: (S)-2-Aceto-2-hydroxybutanoate, Formula: C6H9O4, Compartment: c
+ID: 2cpr5p_c, Name: 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate, Formula: C12H13NO9P, Compartment: c
+ID: 2dda7p_c, Name: 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate, Formula: C7H10O10P, Compartment: c
+ID: 2dhp_c, Name: 2-Dehydropantoate, Formula: C6H9O4, Compartment: c
+ID: 2dmmq8_c, Name: 2-Demethylmenaquinone 8, Formula: C50H70O2, Compartment: c
+ID: 2dmmql8_c, Name: 2-Demethylmenaquinol 8, Formula: C50H72O2, Compartment: c
+ID: 2dr5p_c, Name: 2-Deoxy-D-ribose 5-phosphate, Formula: C5H9O7P, Compartment: c
+ID: 2fe2s_c, Name: 2fe2s, Formula: Fe2S2, Compartment: c
+ID: 2h3oppan_c, Name: 2-Hydroxy-3-oxopropanoate, Formula: C3H3O4, Compartment: c
+ID: 2ins_c, Name: 2-Inosose, Formula: C6H10O6, Compartment: c
+ID: 2ippm_c, Name: 2-Isopropylmaleate, Formula: C7H8O4, Compartment: c
+ID: 2mahmp_c, Name: 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate, Formula: C6H8N3O7P2, Compartment: c
+ID: 2mcacn_c, Name: cis-2-Methylaconitate, Formula: C7H5O6, Compartment: c
+ID: 2mcit_c, Name: 2-Methylcitrate, Formula: C7H7O7, Compartment: c
+ID: 2me4p_c, Name: 2-C-methyl-D-erythritol 4-phosphate, Formula: C5H11O7P, Compartment: c
+ID: 2mecdp_c, Name: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate, Formula: C5H10O9P2, Compartment: c
+ID: 2mop_c, Name: 2-Methyl-3-oxopropanoate, Formula: C4H5O3, Compartment: c
+ID: 2obut_c, Name: 2-Oxobutanoate, Formula: C4H5O3, Compartment: c
+ID: 2ombzl_c, Name: 2ombzl, Formula: C47H72O3, Compartment: c
+ID: 2ommbl_c, Name: 2ommbl, Formula: C48H74O3, Compartment: c
+ID: 2p4c2me_c, Name: 2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol, Formula: C14H22N3O17P3, Compartment: c
+ID: 2pg_c, Name: D-Glycerate 2-phosphate, Formula: C3H4O7P, Compartment: c
+ID: 2pglyc_c, Name: 2-Phosphoglycolate, Formula: C2H2O6P, Compartment: c
+ID: 2saa_c, Name: 2-sulfoacetaldehyde, Formula: C2H3O4S, Compartment: c
+ID: 2sephchc_c, Name: 2sephchc, Formula: C14H13O9, Compartment: c
+ID: 34hpp_c, Name: 3-(4-Hydroxyphenyl)pyruvate, Formula: C9H7O4, Compartment: c
+ID: 3amp_c, Name: 3'-AMP, Formula: C10H12N5O7P, Compartment: c
+ID: 3amp_e, Name: 3'-AMP, Formula: C10H12N5O7P, Compartment: e
+ID: 3c2hmp_c, Name: 3-Carboxy-2-hydroxy-4-methylpentanoate, Formula: C7H10O5, Compartment: c
+ID: 3c3hmp_c, Name: 3-Carboxy-3-hydroxy-4-methylpentanoate, Formula: C7H10O5, Compartment: c
+ID: 3c4mop_c, Name: 3-Carboxy-4-methyl-2-oxopentanoate, Formula: C7H8O5, Compartment: c
+ID: 3cmp_c, Name: 3'-cmp, Formula: C9H12N3O8P, Compartment: c
+ID: 3cmp_e, Name: 3'-cmp, Formula: C9H12N3O8P, Compartment: e
+ID: 3dhq_c, Name: 3-Dehydroquinate, Formula: C7H9O6, Compartment: c
+ID: 3dhsk_c, Name: 3-Dehydroshikimate, Formula: C7H7O5, Compartment: c
+ID: 3gmp_c, Name: 3'-GMP, Formula: C10H12N5O8P, Compartment: c
+ID: 3gmp_e, Name: 3'-GMP, Formula: C10H12N5O8P, Compartment: e
+ID: 3haACP_c, Name: (3R)-3-Hydroxyacyl-[acyl-carrier protein], Formula: C15H27N2O9PRS, Compartment: c
+ID: 3hadpcoa_c, Name: 3hadpcoa, Formula: C27H39N7O20P3S, Compartment: c
+ID: 3hcddec5eACP_c, Name: (R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein], Formula: C23H41N2O9PRS, Compartment: c
+ID: 3hcmrs7eACP_c, Name: (R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein], Formula: C25H45N2O9PRS, Compartment: c
+ID: 3hcpalm9eACP_c, Name: (R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein], Formula: C27H49N2O9PRS, Compartment: c
+ID: 3hcvac11eACP_c, Name: (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein], Formula: C29H53N2O9PRS, Compartment: c
+ID: 3hddecACP_c, Name: (R)-3-Hydroxydodecanoyl-[acyl-carrier protein], Formula: C23H43N2O9PRS, Compartment: c
+ID: 3hdecACP_c, Name: (R)-3-Hydroxydecanoyl-[acyl-carrier protein], Formula: C21H39N2O9PRS, Compartment: c
+ID: 3hhexACP_c, Name: (R)-3-Hydroxyhexanoyl-[acyl-carrier protein], Formula: C17H31N2O9PRS, Compartment: c
+ID: 3hmrsACP_c, Name: (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein], Formula: C25H47N2O9PRS, Compartment: c
+ID: 3hoctaACP_c, Name: (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein], Formula: C29H55N2O9PRS, Compartment: c
+ID: 3hoctACP_c, Name: (R)-3-Hydroxyoctanoyl-[acyl-carrier protein], Formula: C19H35N2O9PRS, Compartment: c
+ID: 3hpalmACP_c, Name: R-3-hydroxypalmitoyl-[acyl-carrier protein], Formula: C27H51N2O9PRS, Compartment: c
+ID: 3ig3p_c, Name: C'-(3-Indolyl)-glycerol 3-phosphate, Formula: C11H12NO6P, Compartment: c
+ID: 3mob_c, Name: 3-Methyl-2-oxobutanoate, Formula: C5H7O3, Compartment: c
+ID: 3mop_c, Name: (S)-3-Methyl-2-oxopentanoate, Formula: C6H9O3, Compartment: c
+ID: 3ocddec5eACP_c, Name: 3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein], Formula: C23H39N2O9PRS, Compartment: c
+ID: 3ocmrs7eACP_c, Name: 3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein], Formula: C25H43N2O9PRS, Compartment: c
+ID: 3ocpalm9eACP_c, Name: 3-oxo-cis-palm-9-eoyl-[acyl-carrier protein], Formula: C27H47N2O9PRS, Compartment: c
+ID: 3ocvac11eACP_c, Name: 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein], Formula: C29H51N2O9PRS, Compartment: c
+ID: 3oddecACP_c, Name: 3-Oxododecanoyl-[acyl-carrier protein], Formula: C23H41N2O9PRS, Compartment: c
+ID: 3odecACP_c, Name: 3-Oxodecanoyl-[acyl-carrier protein], Formula: C21H37N2O9PRS, Compartment: c
+ID: 3ohexACP_c, Name: 3-Oxohexanoyl-[acyl-carrier protein], Formula: C17H29N2O9PRS, Compartment: c
+ID: 3omrsACP_c, Name: 3-Oxotetradecanoyl-[acyl-carrier protein], Formula: C25H45N2O9PRS, Compartment: c
+ID: 3ooctACP_c, Name: 3-Oxooctanoyl-[acyl-carrier protein], Formula: C19H33N2O9PRS, Compartment: c
+ID: 3ooctdACP_c, Name: 3-Oxooctadecanoyl-[acyl-carrier protein], Formula: C29H53N2O9PRS, Compartment: c
+ID: 3opalmACP_c, Name: 3-Oxohexadecanoyl-[acyl-carrier protein], Formula: C27H49N2O9PRS, Compartment: c
+ID: 3pg_c, Name: 3-Phospho-D-glycerate, Formula: C3H4O7P, Compartment: c
+ID: 3php_c, Name: 3-Phosphohydroxypyruvate, Formula: C3H2O7P, Compartment: c
+ID: 3psme_c, Name: 5-O-(1-Carboxyvinyl)-3-phosphoshikimate, Formula: C10H9O10P, Compartment: c
+ID: 3ump_c, Name: 3'-UMP, Formula: C9H11N2O9P, Compartment: c
+ID: 3ump_e, Name: 3'-UMP, Formula: C9H11N2O9P, Compartment: e
+ID: 4abut_c, Name: 4-Aminobutanoate, Formula: C4H9NO2, Compartment: c
+ID: 4abut_e, Name: 4-Aminobutanoate, Formula: C4H9NO2, Compartment: e
+ID: 4abz_c, Name: 4-Aminobenzoate, Formula: C7H6NO2, Compartment: c
+ID: 4adcho_c, Name: 4-amino-4-deoxychorismate, Formula: C10H10NO5, Compartment: c
+ID: 4ampm_c, Name: 4-Amino-2-methyl-5-phosphomethylpyrimidine, Formula: C6H8N3O4P, Compartment: c
+ID: 4c2me_c, Name: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol, Formula: C14H23N3O14P2, Compartment: c
+ID: 4crsol_c, Name: 4crsol, Formula: C7H8O, Compartment: c
+ID: 4fe4s_c, Name: 4fe4s, Formula: Fe4S4, Compartment: c
+ID: 4mhetz_c, Name: 4-Methyl-5-(2-hydroxyethyl)-thiazole, Formula: C6H9NOS, Compartment: c
+ID: 4mop_c, Name: 4-Methyl-2-oxopentanoate, Formula: C6H9O3, Compartment: c
+ID: 4mpetz_c, Name: 4-Methyl-5-(2-phosphoethyl)-thiazole, Formula: C6H8NO4PS, Compartment: c
+ID: 4pasp_c, Name: 4-Phospho-L-aspartate, Formula: C4H6NO7P, Compartment: c
+ID: 4ppan_c, Name: D-4'-Phosphopantothenate, Formula: C9H15NO8P, Compartment: c
+ID: 4ppcys_c, Name: N-((R)-4-Phosphopantothenoyl)-L-cysteine, Formula: C12H20N2O9PS, Compartment: c
+ID: 4r5au_c, Name: 4-(1-D-Ribitylamino)-5-aminouracil, Formula: C9H16N4O6, Compartment: c
+ID: 5aizc_c, Name: 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate, Formula: C9H11N3O9P, Compartment: c
+ID: 5aop_c, Name: 5-Amino-4-oxopentanoate, Formula: C5H9NO3, Compartment: c
+ID: 5apru_c, Name: 5-Amino-6-(5'-phosphoribosylamino)uracil, Formula: C9H13N4O9P, Compartment: c
+ID: 5caiz_c, Name: 5-phosphoribosyl-5-carboxyaminoimidazole, Formula: C9H11N3O9P, Compartment: c
+ID: 5dh4dglc_c, Name: 5dh4dglc, Formula: C6H6O7, Compartment: c
+ID: 5fthf_c, Name: 5-Formyltetrahydrofolate, Formula: C20H21N7O7, Compartment: c
+ID: 5mta_c, Name: 5-Methylthioadenosine, Formula: C11H15N5O3S, Compartment: c
+ID: 5mthf_c, Name: 5-Methyltetrahydrofolate, Formula: C20H24N7O6, Compartment: c
+ID: 5prdmbz_c, Name: N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole, Formula: C14H17N2O7P, Compartment: c
+ID: 6hmhpt_c, Name: 6-hydroxymethyl dihydropterin, Formula: C7H9N5O2, Compartment: c
+ID: 6hmhptpp_c, Name: 6-hydroxymethyl-dihydropterin pyrophosphate, Formula: C7H8N5O8P2, Compartment: c
+ID: 6p5d2dg_c, Name: 6-Phospho-5-dehydro-2-deoxy-D-gluconate, Formula: C6H11O9P, Compartment: c
+ID: 6pgc_c, Name: 6-Phospho-D-gluconate, Formula: C6H10O10P, Compartment: c
+ID: 6pgl_c, Name: 6-phospho-D-glucono-1,5-lactone, Formula: C6H9O9P, Compartment: c
+ID: 8aonn_c, Name: 8-Amino-7-oxononanoate, Formula: C9H17NO3, Compartment: c
+ID: aacoa_c, Name: Acetoacetyl-CoA, Formula: C25H36N7O18P3S, Compartment: c
+ID: ac_c, Name: Acetate, Formula: C2H3O2, Compartment: c
+ID: ac_e, Name: Acetate, Formula: C2H3O2, Compartment: e
+ID: acac_c, Name: Acetoacetate, Formula: C4H5O3, Compartment: c
+ID: acac_e, Name: Acetoacetate, Formula: C4H5O3, Compartment: e
+ID: acACP_c, Name: Acetyl-ACP, Formula: C13H23N2O8PRS, Compartment: c
+ID: acald_c, Name: Acetaldehyde, Formula: C2H4O, Compartment: c
+ID: acald_e, Name: Acetaldehyde, Formula: C2H4O, Compartment: e
+ID: accoa_c, Name: Acetyl-CoA, Formula: C23H34N7O17P3S, Compartment: c
+ID: acg5p_c, Name: N-Acetyl-L-glutamyl 5-phosphate, Formula: C7H9NO8P, Compartment: c
+ID: acg5sa_c, Name: N-Acetyl-L-glutamate 5-semialdehyde, Formula: C7H10NO4, Compartment: c
+ID: acgam_c, Name: N-Acetyl-D-glucosamine, Formula: C8H15NO6, Compartment: c
+ID: acgam_e, Name: N-Acetyl-D-glucosamine, Formula: C8H15NO6, Compartment: e
+ID: acgam1p_c, Name: N-Acetyl-D-glucosamine 1-phosphate, Formula: C8H14NO9P, Compartment: c
+ID: acgam1p_e, Name: N-Acetyl-D-glucosamine 1-phosphate, Formula: C8H14NO9P, Compartment: e
+ID: acgam6p_c, Name: N-Acetyl-D-glucosamine 6-phosphate, Formula: C8H14NO9P, Compartment: c
+ID: acglc__D_c, Name: acglc-D, Formula: C8H14O7, Compartment: c
+ID: acglu_c, Name: N-Acetyl-L-glutamate, Formula: C7H9NO5, Compartment: c
+ID: achms_c, Name: O-Acetyl-L-homoserine, Formula: C6H11NO4, Compartment: c
+ID: acmalt_c, Name: acmalt, Formula: C14H24O12, Compartment: c
+ID: acmana_c, Name: N-Acetyl-D-mannosamine, Formula: C8H15NO6, Compartment: c
+ID: acmana_e, Name: N-Acetyl-D-mannosamine, Formula: C8H15NO6, Compartment: e
+ID: acmanap_c, Name: N-Acetyl-D-mannosamine 6-phosphate, Formula: C8H14NO9P, Compartment: c
+ID: acmum_e, Name: N-Acetylmuramate, Formula: C11H18NO8, Compartment: e
+ID: acmum6p_c, Name: N-acetylmuramate 6-phosphate, Formula: C11H17NO11P, Compartment: c
+ID: acnam_c, Name: N-Acetylneuraminate, Formula: C11H18NO9, Compartment: c
+ID: acon_C_c, Name: cis-Aconitate, Formula: C6H3O6, Compartment: c
+ID: acorn_c, Name: N2-Acetyl-L-ornithine, Formula: C7H14N2O3, Compartment: c
+ID: ACP_c, Name: acyl carrier protein, Formula: C11H21N2O7PRS, Compartment: c
+ID: acser_c, Name: O-Acetyl-L-serine, Formula: C5H9NO4, Compartment: c
+ID: acser_e, Name: O-Acetyl-L-serine, Formula: C5H9NO4, Compartment: e
+ID: actACP_c, Name: Acetoacetyl-ACP, Formula: C15H25N2O9PRS, Compartment: c
+ID: actp_c, Name: Acetyl phosphate, Formula: C2H3O5P, Compartment: c
+ID: ade_c, Name: Adenine, Formula: C5H5N5, Compartment: c
+ID: ade_e, Name: Adenine, Formula: C5H5N5, Compartment: e
+ID: adn_c, Name: Adenosine, Formula: C10H13N5O4, Compartment: c
+ID: adn_e, Name: Adenosine, Formula: C10H13N5O4, Compartment: e
+ID: adocbi_c, Name: Adenosyl cobinamide, Formula: C58H84CoN16O11, Compartment: c
+ID: adocbip_c, Name: Adenosyl cobinamide phosphate, Formula: C58H83CoN16O14P, Compartment: c
+ID: adocbl_c, Name: Adenosylcobalamin, Formula: C72H100CoN18O17P, Compartment: c
+ID: adocbl_e, Name: Adenosylcobalamin, Formula: C72H100CoN18O17P, Compartment: e
+ID: adp_c, Name: ADP, Formula: C10H12N5O10P2, Compartment: c
+ID: adpglc_c, Name: ADPglucose, Formula: C16H23N5O15P2, Compartment: c
+ID: adprib_c, Name: ADPribose, Formula: C15H21N5O14P2, Compartment: c
+ID: agdpcbi_c, Name: Adenosine-GDP-cobinamide, Formula: C68H95CoN21O21P2, Compartment: c
+ID: ahcys_c, Name: S-Adenosyl-L-homocysteine, Formula: C14H20N6O5S, Compartment: c
+ID: ahdt_c, Name: 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate, Formula: C9H12N5O13P3, Compartment: c
+ID: aicar_c, Name: 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide, Formula: C9H13N4O8P, Compartment: c
+ID: air_c, Name: 5-amino-1-(5-phospho-D-ribosyl)imidazole, Formula: C8H12N3O7P, Compartment: c
+ID: akg_c, Name: 2-Oxoglutarate, Formula: C5H4O5, Compartment: c
+ID: akg_e, Name: 2-Oxoglutarate, Formula: C5H4O5, Compartment: e
+ID: alaala_c, Name: D-Alanyl-D-alanine, Formula: C6H12N2O3, Compartment: c
+ID: alaala_e, Name: D-Alanyl-D-alanine, Formula: C6H12N2O3, Compartment: e
+ID: ala_B_c, Name: beta-Alanine, Formula: C3H7NO2, Compartment: c
+ID: ala_B_e, Name: beta-Alanine, Formula: C3H7NO2, Compartment: e
+ID: alac__S_c, Name: (S)-2-Acetolactate, Formula: C5H7O4, Compartment: c
+ID: ala__D_c, Name: D-Alanine, Formula: C3H7NO2, Compartment: c
+ID: ala__D_e, Name: D-Alanine, Formula: C3H7NO2, Compartment: e
+ID: ala__L_c, Name: L-Alanine, Formula: C3H7NO2, Compartment: c
+ID: ala__L_e, Name: L-Alanine, Formula: C3H7NO2, Compartment: e
+ID: alatrna_c, Name: L-Alanyl-tRNA(Ala), Formula: C3H6NOR, Compartment: c
+ID: amet_c, Name: S-Adenosyl-L-methionine, Formula: C15H23N6O5S, Compartment: c
+ID: ametam_c, Name: S-Adenosylmethioninamine, Formula: C14H24N6O3S, Compartment: c
+ID: amob_c, Name: S-Adenosyl-4-methylthio-2-oxobutanoate, Formula: C15H19N5O6S, Compartment: c
+ID: amp_c, Name: AMP, Formula: C10H12N5O7P, Compartment: c
+ID: amp_e, Name: AMP, Formula: C10H12N5O7P, Compartment: e
+ID: anhgm_c, Name: N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid, Formula: C19H29N2O12, Compartment: c
+ID: anhgm4p_c, Name: anhgm4p, Formula: C37H57N7O20, Compartment: c
+ID: anth_c, Name: Anthranilate, Formula: C7H6NO2, Compartment: c
+ID: ap5a_c, Name: P1,P5-Bis(5'-adenosyl) pentaphosphate, Formula: C20H24N10O22P5, Compartment: c
+ID: apg_c, Name: apg, Formula: C40H75O13P2, Compartment: c
+ID: apo_c, Name: Apo-[carboxylase], Formula: C7H13N3O2R2, Compartment: c
+ID: apoACP_c, Name: apoprotein [acyl carrier protein], Formula: RHO, Compartment: c
+ID: aps_c, Name: Adenosine 5'-phosphosulfate, Formula: C10H12N5O10PS, Compartment: c
+ID: arabino_c, Name: arabino, Formula: C26H47O21, Compartment: c
+ID: arab__L_c, Name: L-Arabinose, Formula: C5H10O5, Compartment: c
+ID: arab__L_e, Name: L-Arabinose, Formula: C5H10O5, Compartment: e
+ID: arbt_e, Name: Arbutin, Formula: C12H16O7, Compartment: e
+ID: arbt6p_c, Name: Arbutin 6-phosphate, Formula: C12H15O10P, Compartment: c
+ID: arg__L_c, Name: L-Arginine, Formula: C6H15N4O2, Compartment: c
+ID: arg__L_e, Name: L-Arginine, Formula: C6H15N4O2, Compartment: e
+ID: argsuc_c, Name: N(omega)-(L-Arginino)succinate, Formula: C10H17N4O6, Compartment: c
+ID: argtrna_c, Name: L-Arginyl-tRNA(Arg), Formula: C6H14N4OR, Compartment: c
+ID: ascb6p_c, Name: L-ascorbate-6-phosphate, Formula: C6H7O9P, Compartment: c
+ID: ascb__L_e, Name: L-Ascorbate, Formula: C6H8O6, Compartment: e
+ID: asn__L_c, Name: L-Asparagine, Formula: C4H8N2O3, Compartment: c
+ID: asn__L_e, Name: L-Asparagine, Formula: C4H8N2O3, Compartment: e
+ID: asntrna_c, Name: L-Asparaginyl-tRNA(Asn), Formula: C14H24N2O12PR2, Compartment: c
+ID: asp__L_c, Name: L-Aspartate, Formula: C4H6NO4, Compartment: c
+ID: asp__L_e, Name: L-Aspartate, Formula: C4H6NO4, Compartment: e
+ID: aspsa_c, Name: L-Aspartate 4-semialdehyde, Formula: C4H7NO3, Compartment: c
+ID: asptrna_c, Name: L-Aspartyl-tRNA(Asp), Formula: C4H5NO3R, Compartment: c
+ID: atp_c, Name: ATP, Formula: C10H12N5O13P3, Compartment: c
+ID: b2coa_c, Name: b2coa, Formula: C25H36N7O17P3S, Compartment: c
+ID: bccp_c, Name: Holo-[carboxylase], Formula: None, Compartment: c
+ID: bccp_e, Name: Holo-[carboxylase], Formula: C17H27N5O4SR2, Compartment: e
+ID: betald_c, Name: betald, Formula: C5H12NO, Compartment: c
+ID: bglycogen_c, Name: branching glycogen, Formula: C6H10O5, Compartment: c
+ID: biomass_c, Name: biomass, Formula: C40H65N8O16PSFeCaCoCuKMgMnNiZnCl, Compartment: c
+ID: bmoco_c, Name: bmoco, Formula: C20H20N10O13P2S4Mo, Compartment: c
+ID: btamp_c, Name: Biotinyl-5-AMP, Formula: C20H28N7O9PS, Compartment: c
+ID: btcoa_c, Name: btcoa, Formula: C25H38N7O17P3S, Compartment: c
+ID: btn_c, Name: Biotin, Formula: C10H15N2O3S, Compartment: c
+ID: btn_e, Name: Biotin, Formula: C10H15N2O3S, Compartment: e
+ID: btnco2_c, Name: Carboxybiotin-carboxyl-carrier protein, Formula: C18H27N5O6R2S, Compartment: c
+ID: but2eACP_c, Name: But-2-enoyl-[acyl-carrier protein], Formula: C15H25N2O8PRS, Compartment: c
+ID: butACP_c, Name: Butyryl-ACP (n-C4:0ACP), Formula: C15H27N2O8PRS, Compartment: c
+ID: bwco_c, Name: bwco, Formula: C20H20N10O13P2S4W, Compartment: c
+ID: ca2_c, Name: Calcium, Formula: Ca, Compartment: c
+ID: ca2_e, Name: Calcium, Formula: Ca, Compartment: e
+ID: camp_c, Name: cAMP, Formula: C10H11N5O6P, Compartment: c
+ID: cbasp_c, Name: N-Carbamoyl-L-aspartate, Formula: C5H6N2O5, Compartment: c
+ID: cbccp_c, Name: carboxybiotin-carboxyl-carrier protein, Formula: C18H26N5O6SR2, Compartment: c
+ID: cbp_c, Name: Carbamoyl phosphate, Formula: CH2NO5P, Compartment: c
+ID: cd2_c, Name: Cadmium, Formula: Cd, Compartment: c
+ID: cd2_e, Name: Cadmium, Formula: Cd, Compartment: e
+ID: cddec5eACP_c, Name: cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1), Formula: C23H41N2O8PRS, Compartment: c
+ID: cdec3eACP_c, Name: cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1), Formula: C21H37N2O8PRS, Compartment: c
+ID: cdp_c, Name: CDP, Formula: C9H12N3O11P2, Compartment: c
+ID: cdpdag_c, Name: CDPdiacylglycerol, Formula: C2286H3998N150O750P100, Compartment: c
+ID: cdpdddecg_c, Name: CDP-1,2-didodecanoylglycerol, Formula: C36H63N3O15P2, Compartment: c
+ID: cdpdhdec9eg_c, Name: CDP-1,2-dihexadec-9-enoylglycerol, Formula: C44H75N3O15P2, Compartment: c
+ID: cdpdhdecg_c, Name: CDP-1,2-dihexadecanoylglycerol, Formula: C44H79N3O15P2, Compartment: c
+ID: cdpdodec11eg_c, Name: CDP-1,2-dioctadec-11-enoylglycerol, Formula: C48H83N3O15P2, Compartment: c
+ID: cdpdodecg_c, Name: CDP-1,2-dioctadecanoylglycerol, Formula: C48H87N3O15P2, Compartment: c
+ID: cdpdtdec7eg_c, Name: CDP-1,2-ditetradec-7-enoylglycerol, Formula: C40H67N3O15P2, Compartment: c
+ID: cdpdtdecg_c, Name: CDP-1,2-ditetradecanoylglycerol, Formula: C40H71N3O15P2, Compartment: c
+ID: cgly_c, Name: Cys-Gly, Formula: C5H10N2O3S, Compartment: c
+ID: cgly_e, Name: Cys-Gly, Formula: C5H10N2O3S, Compartment: e
+ID: ch4s_c, Name: Methanethiol, Formula: CH4S, Compartment: c
+ID: chor_c, Name: chorismate, Formula: C10H8O6, Compartment: c
+ID: chtbs_e, Name: N,N'-diacetylchitobiose, Formula: C16H28N2O11, Compartment: e
+ID: chtbs6p_c, Name: diacetylchitobiose-6-phosphate, Formula: C16H27N2O14P, Compartment: c
+ID: cit_c, Name: Citrate, Formula: C6H5O7, Compartment: c
+ID: cit_e, Name: Citrate, Formula: C6H5O7, Compartment: e
+ID: citr__L_c, Name: L-Citrulline, Formula: C6H13N3O3, Compartment: c
+ID: cl_c, Name: Chloride, Formula: Cl, Compartment: c
+ID: cl_e, Name: Chloride, Formula: Cl, Compartment: e
+ID: clpn_c, Name: Cardiolipin, Formula: C3822H7096O850P100, Compartment: c
+ID: cmp_c, Name: CMP, Formula: C9H12N3O8P, Compartment: c
+ID: cmp_e, Name: CMP, Formula: C9H12N3O8P, Compartment: e
+ID: co2_c, Name: CO2, Formula: CO2, Compartment: c
+ID: co2_e, Name: CO2, Formula: CO2, Compartment: e
+ID: coa_c, Name: Coenzyme A, Formula: C21H32N7O16P3S, Compartment: c
+ID: cobalt2_c, Name: Co2+, Formula: Co, Compartment: c
+ID: cobalt2_e, Name: Co2+, Formula: Co, Compartment: e
+ID: cpmp_c, Name: cpmp, Formula: C10H13N5O8P, Compartment: c
+ID: cpppg3_c, Name: Coproporphyrinogen III, Formula: C36H40N4O8, Compartment: c
+ID: crn_c, Name: L-Carnitine, Formula: C7H15NO3, Compartment: c
+ID: crn_e, Name: L-Carnitine, Formula: C7H15NO3, Compartment: e
+ID: crncoa_c, Name: crncoa, Formula: C28H46N8O18P3S, Compartment: c
+ID: crn__D_c, Name: D-Carnitine, Formula: C7H15NO3, Compartment: c
+ID: crn__D_e, Name: D-Carnitine, Formula: C7H15NO3, Compartment: e
+ID: crnDcoa_c, Name: crnDcoa, Formula: C28H46N8O18P3S, Compartment: c
+ID: crtn_c, Name: Creatinine, Formula: C4H7N3O, Compartment: c
+ID: ctbt_c, Name: crotonobetaine, Formula: C7H13NO2, Compartment: c
+ID: ctbt_e, Name: crotonobetaine, Formula: C7H13NO2, Compartment: e
+ID: ctbtcoa_c, Name: ctbtcoa, Formula: C28H44N8O17P3S, Compartment: c
+ID: ctp_c, Name: CTP, Formula: C9H12N3O14P3, Compartment: c
+ID: cu_c, Name: Cu+, Formula: Cu, Compartment: c
+ID: cu_e, Name: Cu+, Formula: Cu, Compartment: e
+ID: cu2_c, Name: Cu2+, Formula: Cu, Compartment: c
+ID: cu2_e, Name: Cu2+, Formula: Cu, Compartment: e
+ID: cyan_c, Name: Hydrogen cyanide, Formula: CHN, Compartment: c
+ID: cyan_e, Name: Hydrogen cyanide, Formula: CHN, Compartment: e
+ID: cys__L_c, Name: L-Cysteine, Formula: C3H7NO2S, Compartment: c
+ID: cys__L_e, Name: L-Cysteine, Formula: C3H7NO2S, Compartment: e
+ID: cyst__L_c, Name: L-Cystathionine, Formula: C7H14N2O4S, Compartment: c
+ID: cystrna_c, Name: L-Cysteinyl-tRNA(Cys), Formula: C3H6NOSR, Compartment: c
+ID: cytd_c, Name: Cytidine, Formula: C9H13N3O5, Compartment: c
+ID: cytd_e, Name: Cytidine, Formula: C9H13N3O5, Compartment: e
+ID: d52dg_c, Name: 5-dehydro-2-deoxy-D-gluconate, Formula: C6H10O6, Compartment: c
+ID: d5dg_c, Name: 5-Deoxy-D-glucuronate, Formula: C6H10O6, Compartment: c
+ID: dad_2_c, Name: Deoxyadenosine, Formula: C10H13N5O3, Compartment: c
+ID: dad_2_e, Name: Deoxyadenosine, Formula: C10H13N5O3, Compartment: e
+ID: dad_5_c, Name: 5'-Deoxyadenosine, Formula: C10H13N5O3, Compartment: c
+ID: dadp_c, Name: dADP, Formula: C10H12N5O9P2, Compartment: c
+ID: damp_c, Name: dAMP, Formula: C10H12N5O6P, Compartment: c
+ID: damp_e, Name: dAMP, Formula: C10H12N5O6P, Compartment: e
+ID: dann_c, Name: 7,8-Diaminononanoate, Formula: C9H21N2O2, Compartment: c
+ID: datp_c, Name: dATP, Formula: C10H12N5O12P3, Compartment: c
+ID: db4p_c, Name: 3,4-dihydroxy-2-butanone 4-phosphate, Formula: C4H7O6P, Compartment: c
+ID: dc2coa_c, Name: dc2coa, Formula: C31H48N7O17P3S, Compartment: c
+ID: dca_c, Name: Decanoate (n-C10:0), Formula: C10H19O2, Compartment: c
+ID: dca_e, Name: Decanoate (n-C10:0), Formula: C10H19O2, Compartment: e
+ID: dcaACP_c, Name: Decanoyl-ACP (n-C10:0ACP), Formula: C21H39N2O8PRS, Compartment: c
+ID: dcacoa_c, Name: Decanoyl-CoA (n-C10:0CoA), Formula: C31H50N7O17P3S, Compartment: c
+ID: dcamp_c, Name: N6-(1,2-Dicarboxyethyl)-AMP, Formula: C14H14N5O11P, Compartment: c
+ID: dcdp_c, Name: dCDP, Formula: C9H12N3O10P2, Compartment: c
+ID: dcmp_c, Name: dCMP, Formula: C9H12N3O7P, Compartment: c
+ID: dcmp_e, Name: dCMP, Formula: C9H12N3O7P, Compartment: e
+ID: dctp_c, Name: dCTP, Formula: C9H12N3O13P3, Compartment: c
+ID: dcyt_c, Name: Deoxycytidine, Formula: C9H13N3O4, Compartment: c
+ID: dcyt_e, Name: Deoxycytidine, Formula: C9H13N3O4, Compartment: e
+ID: dd2coa_c, Name: dd2coa, Formula: C33H52N7O17P3S, Compartment: c
+ID: ddca_c, Name: Dodecanoate (n-C12:0), Formula: C12H23O2, Compartment: c
+ID: ddca_e, Name: Dodecanoate (n-C12:0), Formula: C12H23O2, Compartment: e
+ID: ddcaACP_c, Name: Dodecanoyl-ACP (n-C12:0ACP), Formula: C23H43N2O8PRS, Compartment: c
+ID: ddcacoa_c, Name: Dodecanoyl-CoA (n-C12:0CoA), Formula: C33H54N7O17P3S, Compartment: c
+ID: ddcap_c, Name: Dodecanoly-phosphate (n-C12:0), Formula: C12H24O5P1, Compartment: c
+ID: dgdp_c, Name: dGDP, Formula: C10H12N5O10P2, Compartment: c
+ID: dgmp_c, Name: dGMP, Formula: C10H12N5O7P, Compartment: c
+ID: dgmp_e, Name: dGMP, Formula: C10H12N5O7P, Compartment: e
+ID: dgsn_c, Name: Deoxyguanosine, Formula: C10H13N5O4, Compartment: c
+ID: dgsn_e, Name: Deoxyguanosine, Formula: C10H13N5O4, Compartment: e
+ID: dgtp_c, Name: dGTP, Formula: C10H12N5O13P3, Compartment: c
+ID: dha_c, Name: Dihydroxyacetone, Formula: C3H6O3, Compartment: c
+ID: dha_e, Name: Dihydroxyacetone, Formula: C3H6O3, Compartment: e
+ID: dhap_c, Name: Dihydroxyacetone phosphate, Formula: C3H5O6P, Compartment: c
+ID: dhf_c, Name: 7,8-Dihydrofolate, Formula: C19H19N7O6, Compartment: c
+ID: dhgly_c, Name: dhgly, Formula: C2H2NO2, Compartment: c
+ID: dhmptp_c, Name: dhmptp, Formula: C9H12N5O13P3, Compartment: c
+ID: dhna_c, Name: 1,4-Dihydroxy-2-naphthoate, Formula: C11H7O4, Compartment: c
+ID: dhor__S_c, Name: (S)-Dihydroorotate, Formula: C5H5N2O4, Compartment: c
+ID: dhpt_c, Name: Dihydropteroate, Formula: C14H13N6O3, Compartment: c
+ID: dhptdn_c, Name: dhptdn, Formula: C6H6N4, Compartment: c
+ID: didp_c, Name: DIDP, Formula: C10H14N4O10P2, Compartment: c
+ID: dimp_c, Name: dIMP, Formula: C10H11N4O7P, Compartment: c
+ID: dimp_e, Name: dIMP, Formula: C10H11N4O7P, Compartment: e
+ID: din_c, Name: Deoxyinosine, Formula: C10H12N4O4, Compartment: c
+ID: din_e, Name: Deoxyinosine, Formula: C10H12N4O4, Compartment: e
+ID: ditp_c, Name: dITP, Formula: C10H11N4O13P3, Compartment: c
+ID: dmbzid_c, Name: 5,6-Dimethylbenzimidazole, Formula: C9H10N2, Compartment: c
+ID: dmlz_c, Name: 6,7-Dimethyl-8-(1-D-ribityl)lumazine, Formula: C13H18N4O6, Compartment: c
+ID: dmpp_c, Name: Dimethylallyl diphosphate, Formula: C5H9O7P2, Compartment: c
+ID: dms_c, Name: Dimethyl sulfide, Formula: C2H6S, Compartment: c
+ID: dms_e, Name: Dimethyl sulfide, Formula: C2H6S, Compartment: e
+ID: dmso_c, Name: Dimethyl sulfoxide, Formula: C2H6OS, Compartment: c
+ID: dmso_e, Name: Dimethyl sulfoxide, Formula: C2H6OS, Compartment: e
+ID: dna_c, Name: DNA, Formula: C10H17O8PR2, Compartment: c
+ID: dnad_c, Name: Deamino-NAD+, Formula: C21H24N6O15P2, Compartment: c
+ID: dpcoa_c, Name: Dephospho-CoA, Formula: C21H33N7O13P2S, Compartment: c
+ID: dscL_c, Name: dihydrosirohydrochlorin（precorrin 2）, Formula: C42H41N4O16, Compartment: c
+ID: dtbt_c, Name: Dethiobiotin, Formula: C10H17N2O3, Compartment: c
+ID: dtdp_c, Name: dTDP, Formula: C10H13N2O11P2, Compartment: c
+ID: dtdp4d6dg_c, Name: dTDP-4-dehydro-6-deoxy-D-glucose, Formula: C16H22N2O15P2, Compartment: c
+ID: dtdp4d6dm_c, Name: dTDP-4-dehydro-6-deoxy-L-mannose, Formula: C16H22N2O15P2, Compartment: c
+ID: dtdpglu_c, Name: dTDPglucose, Formula: C16H24N2O16P2, Compartment: c
+ID: dtmp_c, Name: dTMP, Formula: C10H13N2O8P, Compartment: c
+ID: dtmp_e, Name: dTMP, Formula: C10H13N2O8P, Compartment: e
+ID: dttp_c, Name: dTTP, Formula: C10H13N2O14P3, Compartment: c
+ID: dudp_c, Name: dUDP, Formula: C9H11N2O11P2, Compartment: c
+ID: dump_c, Name: dUMP, Formula: C9H11N2O8P, Compartment: c
+ID: dump_e, Name: dUMP, Formula: C9H11N2O8P, Compartment: e
+ID: duri_c, Name: Deoxyuridine, Formula: C9H12N2O5, Compartment: c
+ID: duri_e, Name: Deoxyuridine, Formula: C9H12N2O5, Compartment: e
+ID: dutp_c, Name: dUTP, Formula: C9H11N2O14P3, Compartment: c
+ID: dxyl5p_c, Name: 1-deoxy-D-xylulose 5-phosphate, Formula: C5H9O7P, Compartment: c
+ID: e4p_c, Name: D-Erythrose 4-phosphate, Formula: C4H7O7P, Compartment: c
+ID: eig3p_c, Name: D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate, Formula: C6H9N2O6P, Compartment: c
+ID: etha_c, Name: Ethanolamine, Formula: C2H8NO, Compartment: c
+ID: etha_e, Name: Ethanolamine, Formula: C2H8NO, Compartment: e
+ID: etoh_c, Name: Ethanol, Formula: C2H6O, Compartment: c
+ID: etoh_e, Name: Ethanol, Formula: C2H6O, Compartment: e
+ID: f1p_c, Name: D-Fructose 1-phosphate, Formula: C6H11O9P, Compartment: c
+ID: f6p_c, Name: D-Fructose 6-phosphate, Formula: C6H11O9P, Compartment: c
+ID: f6p_e, Name: D-Fructose 6-phosphate, Formula: C6H11O9P, Compartment: e
+ID: fad_c, Name: Flavin adenine dinucleotide oxidized, Formula: C27H31N9O15P2, Compartment: c
+ID: fadh2_c, Name: Flavin adenine dinucleotide reduced, Formula: C27H33N9O15P2, Compartment: c
+ID: fald_c, Name: Formaldehyde, Formula: CH2O, Compartment: c
+ID: fdp_c, Name: D-Fructose 1,6-bisphosphate, Formula: C6H10O12P2, Compartment: c
+ID: fdxox_c, Name: Oxidized ferredoxin, Formula: X, Compartment: c
+ID: fdxrd_c, Name: fdxrd, Formula: X, Compartment: c
+ID: fe2_c, Name: Fe2+, Formula: Fe, Compartment: c
+ID: fe2_e, Name: Fe2+, Formula: Fe, Compartment: e
+ID: fe3_c, Name: Fe3+, Formula: Fe, Compartment: c
+ID: fe3_e, Name: Fe3+, Formula: Fe, Compartment: e
+ID: fe3dhbzs_c, Name: ferric 2,3-dihydroxybenzoylserine, Formula: C10H10NO6Fe, Compartment: c
+ID: fe3dhbzs_e, Name: ferric 2,3-dihydroxybenzoylserine, Formula: C10H10NO6Fe, Compartment: e
+ID: fgam_c, Name: N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide, Formula: C8H13N2O9P, Compartment: c
+ID: fldox_c, Name: flavodoxin (oxidized) - obsolete, Formula: X, Compartment: c
+ID: fldrd_c, Name: flavodoxin (reduced) - obsolete, Formula: XH2, Compartment: c
+ID: fmettrna_c, Name: N-Formylmethionyl-tRNA, Formula: C6H9NO2SR, Compartment: c
+ID: fmn_c, Name: FMN, Formula: C17H19N4O9P, Compartment: c
+ID: fmnh2_c, Name: fmnh2, Formula: C17H21N4O9P, Compartment: c
+ID: for_c, Name: Formate, Formula: CH1O2, Compartment: c
+ID: for_e, Name: Formate, Formula: CH1O2, Compartment: e
+ID: fpram_c, Name: 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine, Formula: C8H15N3O8P, Compartment: c
+ID: fprica_c, Name: 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide, Formula: C10H13N4O9P, Compartment: c
+ID: frdp_c, Name: Farnesyl diphosphate, Formula: C15H25O7P2, Compartment: c
+ID: freemyco_c, Name: freemyco, Formula: C17H31O, Compartment: c
+ID: fru_c, Name: D-Fructose, Formula: C6H12O6, Compartment: c
+ID: fru_e, Name: D-Fructose, Formula: C6H12O6, Compartment: e
+ID: fruur_c, Name: D-Fructuronate, Formula: C6H9O7, Compartment: c
+ID: fruur_e, Name: D-Fructuronate, Formula: C6H9O7, Compartment: e
+ID: fum_c, Name: Fumarate, Formula: C4H2O4, Compartment: c
+ID: fum_e, Name: Fumarate, Formula: C4H2O4, Compartment: e
+ID: g1p_c, Name: D-Glucose 1-phosphate, Formula: C6H11O9P, Compartment: c
+ID: g1p_e, Name: D-Glucose 1-phosphate, Formula: C6H11O9P, Compartment: e
+ID: g3p_c, Name: Glyceraldehyde 3-phosphate, Formula: C3H5O6P, Compartment: c
+ID: g3pc_c, Name: sn-Glycero-3-phosphocholine, Formula: C8H20NO6P, Compartment: c
+ID: g3pc_e, Name: sn-Glycero-3-phosphocholine, Formula: C8H20NO6P, Compartment: e
+ID: g3pe_c, Name: sn-Glycero-3-phosphoethanolamine, Formula: C5H14NO6P, Compartment: c
+ID: g3pe_e, Name: sn-Glycero-3-phosphoethanolamine, Formula: C5H14NO6P, Compartment: e
+ID: g3pg_c, Name: Glycerophosphoglycerol, Formula: C6H14O8P, Compartment: c
+ID: g3pg_e, Name: Glycerophosphoglycerol, Formula: C6H14O8P, Compartment: e
+ID: g3pi_c, Name: sn-Glycero-3-phospho-1-inositol, Formula: C9H18O11P, Compartment: c
+ID: g3pi_e, Name: sn-Glycero-3-phospho-1-inositol, Formula: C9H18O11P, Compartment: e
+ID: g3ps_c, Name: Glycerophosphoserine, Formula: C6H13NO8P, Compartment: c
+ID: g3ps_e, Name: Glycerophosphoserine, Formula: C6H13NO8P, Compartment: e
+ID: g6p_c, Name: D-Glucose 6-phosphate, Formula: C6H11O9P, Compartment: c
+ID: g6p_e, Name: D-Glucose 6-phosphate, Formula: C6H11O9P, Compartment: e
+ID: gal_c, Name: D-Galactose, Formula: C6H12O6, Compartment: c
+ID: gal1p_c, Name: alpha-D-Galactose 1-phosphate, Formula: C6H11O9P, Compartment: c
+ID: gal1p_e, Name: alpha-D-Galactose 1-phosphate, Formula: C6H11O9P, Compartment: e
+ID: galt_e, Name: Galactitol, Formula: C6H14O6, Compartment: e
+ID: galt1p_c, Name: Galactitol 1-phosphate, Formula: C6H13O9P, Compartment: c
+ID: gam_c, Name: D-Glucosamine, Formula: C6H14NO5, Compartment: c
+ID: gam_e, Name: D-Glucosamine, Formula: C6H14NO5, Compartment: e
+ID: gam1p_c, Name: D-Glucosamine 1-phosphate, Formula: C6H13NO8P, Compartment: c
+ID: gam6p_c, Name: D-Glucosamine 6-phosphate, Formula: C6H13NO8P, Compartment: c
+ID: gam6p_e, Name: D-Glucosamine 6-phosphate, Formula: C6H13NO8P, Compartment: e
+ID: gar_c, Name: N1-(5-Phospho-D-ribosyl)glycinamide, Formula: C7H14N2O8P, Compartment: c
+ID: gcald_c, Name: Glycolaldehyde, Formula: C2H4O2, Compartment: c
+ID: gdp_c, Name: GDP, Formula: C10H12N5O11P2, Compartment: c
+ID: gdpmann_c, Name: GDP-D-mannose, Formula: C16H23N5O16P2, Compartment: c
+ID: gdptp_c, Name: Guanosine 3'-diphosphate 5'-triphosphate, Formula: C10H11N5O20P5, Compartment: c
+ID: glc__D_c, Name: D-Glucose, Formula: C6H12O6, Compartment: c
+ID: glc__D_e, Name: D-Glucose, Formula: C6H12O6, Compartment: e
+ID: glcn_c, Name: D-Gluconate, Formula: C6H11O7, Compartment: c
+ID: glcn_e, Name: D-Gluconate, Formula: C6H11O7, Compartment: e
+ID: glcr_c, Name: D-Glucarate, Formula: C6H8O8, Compartment: c
+ID: glcur_c, Name: D-Glucuronate, Formula: C6H9O7, Compartment: c
+ID: glcur_e, Name: D-Glucuronate, Formula: C6H9O7, Compartment: e
+ID: glcur1p_c, Name: D-Glucuronate 1-phosphate, Formula: C6H8O10P, Compartment: c
+ID: glcur1p_e, Name: D-Glucuronate 1-phosphate, Formula: C6H8O10P, Compartment: e
+ID: gln__L_c, Name: L-Glutamine, Formula: C5H10N2O3, Compartment: c
+ID: gln__L_e, Name: L-Glutamine, Formula: C5H10N2O3, Compartment: e
+ID: glntrna_c, Name: L-Glutaminyl-tRNA(Gln), Formula: C5H9N2O2R, Compartment: c
+ID: glu1sa_c, Name: L-Glutamate 1-semialdehyde, Formula: C5H9NO3, Compartment: c
+ID: glu5p_c, Name: L-Glutamate 5-phosphate, Formula: C5H8NO7P, Compartment: c
+ID: glu5sa_c, Name: L-Glutamate 5-semialdehyde, Formula: C5H9NO3, Compartment: c
+ID: glucys_c, Name: glucys, Formula: C8H13N2O5S, Compartment: c
+ID: glu__D_c, Name: D-Glutamate, Formula: C5H8NO4, Compartment: c
+ID: glu__L_c, Name: L-Glutamate, Formula: C5H8NO4, Compartment: c
+ID: glu__L_e, Name: L-Glutamate, Formula: C5H8NO4, Compartment: e
+ID: glutrna_c, Name: L-Glutamyl-tRNA(Glu), Formula: C5H7NO3R, Compartment: c
+ID: glx_c, Name: Glyoxylate, Formula: C2H1O3, Compartment: c
+ID: gly_c, Name: Glycine, Formula: C2H5NO2, Compartment: c
+ID: gly_e, Name: Glycine, Formula: C2H5NO2, Compartment: e
+ID: glyald_c, Name: D-Glyceraldehyde, Formula: C3H6O3, Compartment: c
+ID: glyald_e, Name: D-Glyceraldehyde, Formula: C3H6O3, Compartment: e
+ID: glyb_c, Name: Glycine betaine, Formula: C5H11NO2, Compartment: c
+ID: glyb_e, Name: Glycine betaine, Formula: C5H11NO2, Compartment: e
+ID: glyc_c, Name: Glycerol, Formula: C3H8O3, Compartment: c
+ID: glyc_e, Name: Glycerol, Formula: C3H8O3, Compartment: e
+ID: glyc2p_c, Name: Glycerol 2-phosphate, Formula: C3H7O6P, Compartment: c
+ID: glyc2p_e, Name: Glycerol 2-phosphate, Formula: C3H7O6P, Compartment: e
+ID: glyc3p_c, Name: Glycerol 3-phosphate, Formula: C3H7O6P, Compartment: c
+ID: glyc3p_e, Name: Glycerol 3-phosphate, Formula: C3H7O6P, Compartment: e
+ID: glyclt_c, Name: Glycolate, Formula: C2H3O3, Compartment: c
+ID: glycogen_c, Name: glycogen, Formula: C6H10O5, Compartment: c
+ID: glyc__R_c, Name: (R)-Glycerate, Formula: C3H5O4, Compartment: c
+ID: glyc__R_e, Name: (R)-Glycerate, Formula: C3H5O4, Compartment: e
+ID: glytrna_c, Name: Glycyl-tRNA(Gly), Formula: C2H4NOR, Compartment: c
+ID: gmp_c, Name: GMP, Formula: C10H12N5O8P, Compartment: c
+ID: gmp_e, Name: GMP, Formula: C10H12N5O8P, Compartment: e
+ID: gp4g_c, Name: P1,P4-Bis(5'-guanosyl) tetraphosphate, Formula: C20H24N10O21P4, Compartment: c
+ID: grdp_c, Name: Geranyl diphosphate, Formula: C10H17O7P2, Compartment: c
+ID: grxox_c, Name: glutaredoxin (oxidized), Formula: X, Compartment: c
+ID: grxrd_c, Name: glutaredoxin (reduced), Formula: XH2, Compartment: c
+ID: gsn_c, Name: Guanosine, Formula: C10H13N5O5, Compartment: c
+ID: gsn_e, Name: Guanosine, Formula: C10H13N5O5, Compartment: e
+ID: gthox_c, Name: Oxidized glutathione, Formula: C20H30N6O12S2, Compartment: c
+ID: gthrd_c, Name: Reduced glutathione, Formula: C10H16N3O6S, Compartment: c
+ID: gthrd_e, Name: Reduced glutathione, Formula: C10H16N3O6S, Compartment: e
+ID: gtp_c, Name: GTP, Formula: C10H12N5O14P3, Compartment: c
+ID: gua_c, Name: Guanine, Formula: C5H5N5O, Compartment: c
+ID: gua_e, Name: Guanine, Formula: C5H5N5O, Compartment: e
+ID: h_c, Name: H+, Formula: H, Compartment: c
+ID: h_e, Name: H+, Formula: H, Compartment: e
+ID: h2_c, Name: H2, Formula: H2, Compartment: c
+ID: h2_e, Name: H2, Formula: H2, Compartment: e
+ID: h2mb4p_c, Name: 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate, Formula: C5H9O8P2, Compartment: c
+ID: h2o_c, Name: H2O, Formula: H2O, Compartment: c
+ID: h2o_e, Name: H2O, Formula: H2O, Compartment: e
+ID: h2o2_c, Name: Hydrogen peroxide, Formula: H2O2, Compartment: c
+ID: h2s_c, Name: Hydrogen sulfide, Formula: H2S, Compartment: c
+ID: h2s_e, Name: Hydrogen sulfide, Formula: H2S, Compartment: e
+ID: hcat_c, Name: hcat, Formula: C7H10O7, Compartment: c
+ID: hco3_c, Name: Bicarbonate, Formula: CHO3, Compartment: c
+ID: hcys__L_c, Name: L-Homocysteine, Formula: C4H9NO2S, Compartment: c
+ID: hdca_c, Name: Hexadecanoate (n-C16:0), Formula: C16H31O2, Compartment: c
+ID: hdca_e, Name: Hexadecanoate (n-C16:0), Formula: C16H31O2, Compartment: e
+ID: hdcap_c, Name: Hexadecanoyl-phosphate (n-C16:0), Formula: C16H32O5P, Compartment: c
+ID: hdcea_c, Name: Hexadecenoate (n-C16:1), Formula: C16H29O2, Compartment: c
+ID: hdcea_e, Name: Hexadecenoate (n-C16:1), Formula: C16H29O2, Compartment: e
+ID: hdceap_c, Name: Hexadecanoyl-phosphate (n-C16:1), Formula: C16H30O5P, Compartment: c
+ID: hdcoa_c, Name: Hexadecenoyl-CoA (n-C16:1CoA), Formula: C37H60N7O17P3S, Compartment: c
+ID: hdd2coa_c, Name: hdd2coa, Formula: C37H60N7O17P3S, Compartment: c
+ID: hdeACP_c, Name: cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1), Formula: C27H49N2O8PRS, Compartment: c
+ID: hexACP_c, Name: Hexanoyl-ACP (n-C6:0ACP), Formula: C17H31N2O8PRS, Compartment: c
+ID: his__L_c, Name: L-Histidine, Formula: C6H9N3O2, Compartment: c
+ID: his__L_e, Name: L-Histidine, Formula: C6H9N3O2, Compartment: e
+ID: hisp_c, Name: L-Histidinol phosphate, Formula: C6H11N3O4P, Compartment: c
+ID: histd_c, Name: L-Histidinol, Formula: C6H12N3O, Compartment: c
+ID: histrna_c, Name: L-Histidyl-tRNA(His), Formula: C6H8N3OR, Compartment: c
+ID: hmbil_c, Name: Hydroxymethylbilane, Formula: C40H38N4O17, Compartment: c
+ID: hom__L_c, Name: L-Homoserine, Formula: C4H9NO3, Compartment: c
+ID: hom__L_e, Name: L-Homoserine, Formula: C4H9NO3, Compartment: e
+ID: hpyr_c, Name: Hydroxypyruvate, Formula: C3H3O4, Compartment: c
+ID: hx2coa_c, Name: hx2coa, Formula: C27H40N7O17P3S, Compartment: c
+ID: hxa_c, Name: Hexanoate (n-C6:0), Formula: C6H11O2, Compartment: c
+ID: hxa_e, Name: Hexanoate (n-C6:0), Formula: C6H11O2, Compartment: e
+ID: hxan_c, Name: Hypoxanthine, Formula: C5H4N4O, Compartment: c
+ID: hxan_e, Name: Hypoxanthine, Formula: C5H4N4O, Compartment: e
+ID: hxcoa_c, Name: Hexanoyl-CoA (n-C6:0CoA), Formula: C27H42N7O17P3S, Compartment: c
+ID: iasp_c, Name: Iminoaspartate, Formula: C4H3NO4, Compartment: c
+ID: ichor_c, Name: Isochorismate, Formula: C10H8O6, Compartment: c
+ID: icit_c, Name: Isocitrate, Formula: C6H5O7, Compartment: c
+ID: idp_c, Name: IDP, Formula: C10H11N4O11P2, Compartment: c
+ID: ile__L_c, Name: L-Isoleucine, Formula: C6H13NO2, Compartment: c
+ID: ile__L_e, Name: L-Isoleucine, Formula: C6H13NO2, Compartment: e
+ID: iletrna_c, Name: L-Isoleucyl-tRNA(Ile), Formula: C6H12NOR, Compartment: c
+ID: imacp_c, Name: 3-(Imidazol-4-yl)-2-oxopropyl phosphate, Formula: C6H7N2O5P, Compartment: c
+ID: imp_c, Name: IMP, Formula: C10H11N4O8P, Compartment: c
+ID: imp_e, Name: IMP, Formula: C10H11N4O8P, Compartment: e
+ID: indole_c, Name: Indole, Formula: C8H7N, Compartment: c
+ID: indole_e, Name: Indole, Formula: C8H7N, Compartment: e
+ID: inost_c, Name: myo-Inositol, Formula: C6H12O6, Compartment: c
+ID: inost_e, Name: Myo-Inositol, Formula: C6H12O6, Compartment: e
+ID: ins_c, Name: Inosine, Formula: C10H12N4O5, Compartment: c
+ID: ins_e, Name: Inosine, Formula: C10H12N4O5, Compartment: e
+ID: ions_c, Name: ions, Formula: OSFeCaCoCuK20MgMnNiZnCl, Compartment: c
+ID: ipdp_c, Name: Isopentenyl diphosphate, Formula: C5H9O7P2, Compartment: c
+ID: isetac_c, Name: Isethionic acid, Formula: C2H5O4S, Compartment: c
+ID: itp_c, Name: ITP, Formula: C10H11N4O14P3, Compartment: c
+ID: k_c, Name: potassium, Formula: K, Compartment: c
+ID: k_e, Name: potassium, Formula: K, Compartment: e
+ID: lac__D_c, Name: D-Lactate, Formula: C3H5O3, Compartment: c
+ID: lac__D_e, Name: D-Lactate, Formula: C3H5O3, Compartment: e
+ID: lac__L_c, Name: L-Lactate, Formula: C3H5O3, Compartment: c
+ID: lac__L_e, Name: L-Lactate, Formula: C3H5O3, Compartment: e
+ID: LalaDgluMdapDala_c, Name: L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine, Formula: C18H30N5O9, Compartment: c
+ID: leu__L_c, Name: L-Leucine, Formula: C6H13NO2, Compartment: c
+ID: leu__L_e, Name: L-Leucine, Formula: C6H13NO2, Compartment: e
+ID: leutrna_c, Name: L-Leucyl-tRNA(Leu), Formula: C6H12NOR, Compartment: c
+ID: lgt_S_c, Name: (R)-S-Lactoylglutathione, Formula: C13H20N3O8S, Compartment: c
+ID: lipoamp_c, Name: lipoamp, Formula: C18H25N5O8PS2, Compartment: c
+ID: lipoate_c, Name: Lipoate, Formula: C8H14O2S2, Compartment: c
+ID: lipopb_c, Name: lipopb, Formula: C8H13OS2, Compartment: c
+ID: lys__L_c, Name: L-Lysine, Formula: C6H15N2O2, Compartment: c
+ID: lys__L_e, Name: L-Lysine, Formula: C6H15N2O2, Compartment: e
+ID: lystrna_c, Name: L-Lysine-tRNA (Lys), Formula: C6H14N2OR, Compartment: c
+ID: lyx__L_c, Name: L-Lyxose, Formula: C5H10O5, Compartment: c
+ID: malACP_c, Name: Malonyl-[acyl-carrier protein], Formula: C14H22N2O10PRS, Compartment: c
+ID: malcoa_c, Name: Malonyl-CoA, Formula: C24H33N7O19P3S, Compartment: c
+ID: mal__L_c, Name: L-Malate, Formula: C4H4O5, Compartment: c
+ID: mal__L_e, Name: L-Malate, Formula: C4H4O5, Compartment: e
+ID: malt_c, Name: Maltose, Formula: C12H22O11, Compartment: c
+ID: malt_e, Name: Maltose, Formula: C12H22O11, Compartment: e
+ID: malt6p_c, Name: Maltose 6'-phosphate, Formula: C12H21O14P, Compartment: c
+ID: malthp_c, Name: Maltoheptaose, Formula: C42H72O36, Compartment: c
+ID: malthx_c, Name: Maltohexaose, Formula: C36H62O31, Compartment: c
+ID: maltpt_c, Name: Maltopentaose, Formula: C30H52O26, Compartment: c
+ID: malttr_c, Name: Maltotriose, Formula: C18H32O16, Compartment: c
+ID: maltttr_c, Name: Maltotetraose, Formula: C24H42O21, Compartment: c
+ID: man_e, Name: D-Mannose, Formula: C6H12O6, Compartment: e
+ID: man1p_c, Name: D-Mannose 1-phosphate, Formula: C6H11O9P, Compartment: c
+ID: man6p_c, Name: D-Mannose 6-phosphate, Formula: C6H11O9P, Compartment: c
+ID: man6p_e, Name: D-Mannose 6-phosphate, Formula: C6H11O9P, Compartment: e
+ID: mercppyr_c, Name: Mercaptopyruvate, Formula: C3H3O3S, Compartment: c
+ID: methf_c, Name: 5,10-Methenyltetrahydrofolate, Formula: C20H20N7O6, Compartment: c
+ID: met__L_c, Name: L-Methionine, Formula: C5H11NO2S, Compartment: c
+ID: met__L_e, Name: L-Methionine, Formula: C5H11NO2S, Compartment: e
+ID: metsox_S__L_c, Name: L-Methionine Sulfoxide, Formula: C5H11NO3S, Compartment: c
+ID: mettrna_c, Name: L-Methionyl-tRNA (Met), Formula: C5H10NOSR, Compartment: c
+ID: mg2_c, Name: magnesium, Formula: Mg, Compartment: c
+ID: mg2_e, Name: magnesium, Formula: Mg, Compartment: e
+ID: mi1p__D_c, Name: 1D-myo-Inositol 1-phosphate, Formula: C6H11O9P, Compartment: c
+ID: mi3p__D_c, Name: 1D-myo-Inositol 3-phosphate, Formula: C6H11O9P, Compartment: c
+ID: micit_c, Name: methylisocitrate, Formula: C7H7O7, Compartment: c
+ID: mlthf_c, Name: 5,10-Methylenetetrahydrofolate, Formula: C20H21N7O6, Compartment: c
+ID: mmcoa__R_c, Name: (R)-Methylmalonyl-CoA, Formula: C25H35N7O19P3S, Compartment: c
+ID: mmcoa__S_c, Name: (S)-Methylmalonyl-CoA, Formula: C25H35N7O19P3S, Compartment: c
+ID: mn2_c, Name: Mn2+, Formula: Mn, Compartment: c
+ID: mn2_e, Name: Mn2+, Formula: Mn, Compartment: e
+ID: mnl_c, Name: D-Mannitol, Formula: C6H14O6, Compartment: c
+ID: mnl_e, Name: D-Mannitol, Formula: C6H14O6, Compartment: e
+ID: mnl1p_c, Name: D-Mannitol 1-phosphate, Formula: C6H13O9P, Compartment: c
+ID: moadamp_c, Name: moadamp, Formula: C11H12N5O8P1X, Compartment: c
+ID: moadcoo_c, Name: moadcoo, Formula: C1O2X, Compartment: c
+ID: moadcosh_c, Name: moadcosh, Formula: C1H1O1S1X, Compartment: c
+ID: mobd_c, Name: Molybdate, Formula: MoO4, Compartment: c
+ID: moco_c, Name: moco, Formula: C10H10N5O8PS2Mo, Compartment: c
+ID: mpt_c, Name: mpt, Formula: C10H10N5O6PS2Cu, Compartment: c
+ID: mptamp_c, Name: mptamp, Formula: C20H22N10O12P2S2Cu, Compartment: c
+ID: mql8_c, Name: Menaquinol 8, Formula: C51H74O2, Compartment: c
+ID: mqn8_c, Name: Menaquinone 8, Formula: C51H72O2, Compartment: c
+ID: msa_c, Name: Malonate semialdehyde, Formula: C3H3O3, Compartment: c
+ID: mthgxl_c, Name: Methylglyoxal, Formula: C3H4O2, Compartment: c
+ID: murein4p3p_c, Name: two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain), Formula: C71H109N13O39, Compartment: c
+ID: murein4p4p_c, Name: two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain), Formula: C74H114N14O40, Compartment: c
+ID: murein5p3p_c, Name: two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain), Formula: C74H114N14O40, Compartment: c
+ID: murein5p4p_c, Name: two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain), Formula: C77H119N15O41, Compartment: c
+ID: murein5p5p_c, Name: two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain), Formula: C80H124N16O42, Compartment: c
+ID: murein5p5p_e, Name: two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain), Formula: C80H124N16O42, Compartment: e
+ID: murein5p5p5p_c, Name: murein5p5p5p, Formula: C120H186N24O63, Compartment: c
+ID: murein5p5p5p_e, Name: murein5p5p5p, Formula: C120H186N24O63, Compartment: e
+ID: murein5px3p_c, Name: murein5px3p, Formula: C74H112N14O39, Compartment: c
+ID: murein5px4p_c, Name: murein5px4p, Formula: C77H117N15O40, Compartment: c
+ID: murein5px4px4p_c, Name: murein5px4px4p, Formula: C114H172N22O59, Compartment: c
+ID: mycoli_c, Name: mycoli, Formula: C64H117O7P, Compartment: c
+ID: myrsACP_c, Name: Myristoyl-ACP (n-C14:0ACP), Formula: C25H47N2O8PRS, Compartment: c
+ID: N1aspmd_c, Name: N1-Acetylspermidine, Formula: C9H23N3O, Compartment: c
+ID: n2o_c, Name: Nitrous oxide, Formula: N2O, Compartment: c
+ID: n2o_e, Name: Nitrous oxide, Formula: N2O, Compartment: e
+ID: n8aspmd_c, Name: N8-Acetylspermidine, Formula: C9H23N3O, Compartment: c
+ID: na1_c, Name: Sodium, Formula: Na, Compartment: c
+ID: na1_e, Name: Sodium, Formula: Na, Compartment: e
+ID: nac_c, Name: Nicotinate, Formula: C6H4NO2, Compartment: c
+ID: nac_e, Name: Nicotinate, Formula: C6H4NO2, Compartment: e
+ID: nad_c, Name: Nicotinamide adenine dinucleotide, Formula: C21H26N7O14P2, Compartment: c
+ID: nadh_c, Name: Nicotinamide adenine dinucleotide - reduced, Formula: C21H27N7O14P2, Compartment: c
+ID: nadp_c, Name: Nicotinamide adenine dinucleotide phosphate, Formula: C21H25N7O17P3, Compartment: c
+ID: nadph_c, Name: Nicotinamide adenine dinucleotide phosphate - reduced, Formula: C21H26N7O17P3, Compartment: c
+ID: ncam_c, Name: Nicotinamide, Formula: C6H6N2O, Compartment: c
+ID: nh3_c, Name: Ammonia, Formula: H3N, Compartment: c
+ID: nh4_c, Name: Ammonium, Formula: H4N, Compartment: c
+ID: nh4_e, Name: Ammonium, Formula: H4N, Compartment: e
+ID: ni2_c, Name: nickel, Formula: Ni, Compartment: c
+ID: ni2_e, Name: nickel, Formula: Ni, Compartment: e
+ID: nicrnt_c, Name: Nicotinate D-ribonucleotide, Formula: C11H12NO9P, Compartment: c
+ID: nmeth_c, Name: N-methylhydantoin, Formula: C4H6N2O2, Compartment: c
+ID: nmn_c, Name: NMN, Formula: C11H14N2O8P, Compartment: c
+ID: nmn_e, Name: NMN, Formula: C11H14N2O8P, Compartment: e
+ID: no_c, Name: Nitric oxide, Formula: NO, Compartment: c
+ID: no_e, Name: Nitric oxide, Formula: NO, Compartment: e
+ID: no2_c, Name: Nitrite, Formula: NO2, Compartment: c
+ID: no2_e, Name: Nitrite, Formula: NO2, Compartment: e
+ID: no3_c, Name: Nitrate, Formula: NO3, Compartment: c
+ID: no3_e, Name: Nitrate, Formula: NO3, Compartment: e
+ID: o2_c, Name: O2, Formula: O2, Compartment: c
+ID: o2_e, Name: O2, Formula: O2, Compartment: e
+ID: o2s_c, Name: Superoxide anion, Formula: O2, Compartment: c
+ID: o2s_e, Name: Superoxide anion, Formula: O2, Compartment: e
+ID: oaa_c, Name: Oxaloacetate, Formula: C4H2O5, Compartment: c
+ID: oc2coa_c, Name: oc2coa, Formula: C29H44N7O17P3S, Compartment: c
+ID: ocACP_c, Name: Octanoyl-ACP (n-C8:0ACP), Formula: C19H35N2O8PRS, Compartment: c
+ID: occoa_c, Name: Octanoyl-CoA (n-C8:0CoA), Formula: C29H46N7O17P3S, Compartment: c
+ID: ocdca_c, Name: octadecanoate (n-C18:0), Formula: C18H35O2, Compartment: c
+ID: ocdca_e, Name: octadecanoate (n-C18:0), Formula: C18H35O2, Compartment: e
+ID: ocdcaACP_c, Name: Octadecanoyl-ACP (n-C18:0ACP), Formula: C29H55N2O8PRS, Compartment: c
+ID: ocdcap_c, Name: Octadecanoyl-phosphate (n-C18:0), Formula: C18H36O5P, Compartment: c
+ID: ocdcea_c, Name: octadecenoate (n-C18:1), Formula: C18H33O2, Compartment: c
+ID: ocdcea_e, Name: octadecenoate (n-C18:1), Formula: C18H33O2, Compartment: e
+ID: ocdceap_c, Name: Octadecanoyl-phosphate (n-C18:1), Formula: C18H34O5P, Compartment: c
+ID: octa_c, Name: octanoate (n-C8:0), Formula: C8H15O2, Compartment: c
+ID: octa_e, Name: octanoate (n-C8:0), Formula: C8H15O2, Compartment: e
+ID: octapb_c, Name: octapb, Formula: C8H15O, Compartment: c
+ID: octdp_c, Name: all-trans-Octaprenyl diphosphate, Formula: C40H65O7P2, Compartment: c
+ID: octeACP_c, Name: cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1), Formula: C29H53N2O8PRS, Compartment: c
+ID: od2coa_c, Name: od2coa, Formula: C39H64N7O17P3S, Compartment: c
+ID: odecoa_c, Name: Octadecenoyl-CoA (n-C18:1CoA), Formula: C39H64N7O17P3S, Compartment: c
+ID: ohpb_c, Name: 2-Oxo-3-hydroxy-4-phosphobutanoate, Formula: C4H4O8P, Compartment: c
+ID: orn_c, Name: Ornithine, Formula: C5H13N2O2, Compartment: c
+ID: orn_e, Name: Ornithine, Formula: C5H13N2O2, Compartment: e
+ID: orot_c, Name: Orotate, Formula: C5H3N2O4, Compartment: c
+ID: orot_e, Name: Orotate, Formula: C5H3N2O4, Compartment: e
+ID: orot5p_c, Name: Orotidine 5'-phosphate, Formula: C10H10N2O11P, Compartment: c
+ID: pa_c, Name: phosphatidate, Formula: C1836H3398O400P50, Compartment: c
+ID: pa120_c, Name: 1,2-didodecanoyl-sn-glycerol 3-phosphate, Formula: C27H51O8P1, Compartment: c
+ID: pa120_e, Name: 1,2-didodecanoyl-sn-glycerol 3-phosphate, Formula: C27H51O8P1, Compartment: e
+ID: pa140_c, Name: 1,2-ditetradecanoyl-sn-glycerol 3-phosphate, Formula: C31H59O8P1, Compartment: c
+ID: pa140_e, Name: 1,2-ditetradecanoyl-sn-glycerol 3-phosphate, Formula: C31H59O8P1, Compartment: e
+ID: pa141_c, Name: 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate, Formula: C31H55O8P1, Compartment: c
+ID: pa141_e, Name: 1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate, Formula: C31H55O8P1, Compartment: e
+ID: pa160_c, Name: 1,2-dihexadecanoyl-sn-glycerol 3-phosphate, Formula: C35H67O8P1, Compartment: c
+ID: pa160_e, Name: 1,2-dihexadecanoyl-sn-glycerol 3-phosphate, Formula: C35H67O8P1, Compartment: e
+ID: pa161_c, Name: 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate, Formula: C35H63O8P1, Compartment: c
+ID: pa161_e, Name: 1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate, Formula: C35H63O8P1, Compartment: e
+ID: pa180_c, Name: 1,2-dioctadecanoyl-sn-glycerol 3-phosphate, Formula: C39H75O8P1, Compartment: c
+ID: pa180_e, Name: 1,2-dioctadecanoyl-sn-glycerol 3-phosphate, Formula: C39H75O8P1, Compartment: e
+ID: pa181_c, Name: 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate, Formula: C39H71O8P1, Compartment: c
+ID: pa181_e, Name: 1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate, Formula: C39H71O8P1, Compartment: e
+ID: pac_c, Name: Phenylacetic acid, Formula: C8H7O2, Compartment: c
+ID: pacald_c, Name: Phenylacetaldehyde, Formula: C8H8O, Compartment: c
+ID: palmACP_c, Name: Palmitoyl-ACP (n-C16:0ACP), Formula: C27H51N2O8PRS, Compartment: c
+ID: pan4p_c, Name: Pantetheine 4'-phosphate, Formula: C11H21N2O7PS, Compartment: c
+ID: pant__R_c, Name: (R)-Pantoate, Formula: C6H11O4, Compartment: c
+ID: pap_c, Name: Adenosine 3',5'-bisphosphate, Formula: C10H11N5O10P2, Compartment: c
+ID: paps_c, Name: 3'-Phosphoadenylyl sulfate, Formula: C10H11N5O13P2S, Compartment: c
+ID: pdx5p_c, Name: Pyridoxine 5'-phosphate, Formula: C8H10NO6P, Compartment: c
+ID: pep_c, Name: Phosphoenolpyruvate, Formula: C3H2O6P, Compartment: c
+ID: peptid_c, Name: peptid, Formula: C64H110N13O50P3, Compartment: c
+ID: pgp120_c, Name: Phosphatidylglycerophosphate (didodecanoyl, n-C12:0), Formula: C30H57O13P2, Compartment: c
+ID: pgp120_e, Name: Phosphatidylglycerophosphate (didodecanoyl, n-C12:0), Formula: C30H57O13P2, Compartment: e
+ID: pgp140_c, Name: Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0), Formula: C34H65O13P2, Compartment: c
+ID: pgp140_e, Name: Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0), Formula: C34H65O13P2, Compartment: e
+ID: pgp141_c, Name: Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1), Formula: C34H61O13P2, Compartment: c
+ID: pgp141_e, Name: Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1), Formula: C34H61O13P2, Compartment: e
+ID: pgp160_c, Name: Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0), Formula: C38H73O13P2, Compartment: c
+ID: pgp160_e, Name: Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0), Formula: C38H73O13P2, Compartment: e
+ID: pgp161_c, Name: Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1), Formula: C38H69O13P2, Compartment: c
+ID: pgp161_e, Name: Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1), Formula: C38H69O13P2, Compartment: e
+ID: pgp180_c, Name: Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0), Formula: C42H81O13P2, Compartment: c
+ID: pgp180_e, Name: Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0), Formula: C42H81O13P2, Compartment: e
+ID: pgp181_c, Name: Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1), Formula: C42H77O13P2, Compartment: c
+ID: pgp181_e, Name: Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1), Formula: C42H77O13P2, Compartment: e
+ID: phe__L_c, Name: L-Phenylalanine, Formula: C9H11NO2, Compartment: c
+ID: phe__L_e, Name: L-Phenylalanine, Formula: C9H11NO2, Compartment: e
+ID: pheme_c, Name: Protoheme, Formula: C34H30FeN4O4, Compartment: c
+ID: pheme_e, Name: Protoheme, Formula: C34H30FeN4O4, Compartment: e
+ID: phetrna_c, Name: L-Phenylalanyl-tRNA(Phe), Formula: C9H10NOR, Compartment: c
+ID: phom_c, Name: O-Phospho-L-homoserine, Formula: C4H8NO6P, Compartment: c
+ID: phosph_c, Name: phosph, Formula: C53H98NO17P2, Compartment: c
+ID: phpyr_c, Name: Phenylpyruvate, Formula: C9H7O3, Compartment: c
+ID: phthr_c, Name: O-Phospho-4-hydroxy-L-threonine, Formula: C4H8NO7P, Compartment: c
+ID: pi_c, Name: Phosphate, Formula: HO4P, Compartment: c
+ID: pi_e, Name: Phosphate, Formula: HO4P, Compartment: e
+ID: pim_c, Name: pim, Formula: C46H80N3O15P2, Compartment: c
+ID: pit_c, Name: pit, Formula: C46H80N3O15P2, Compartment: c
+ID: pmtcoa_c, Name: Palmitoyl-CoA (n-C16:0CoA), Formula: C37H62N7O17P3S, Compartment: c
+ID: pnto__R_c, Name: (R)-Pantothenate, Formula: C9H16NO5, Compartment: c
+ID: pnto__R_e, Name: (R)-Pantothenate, Formula: C9H16NO5, Compartment: e
+ID: ppa_c, Name: Propionate (n-C3:0), Formula: C3H5O2, Compartment: c
+ID: ppa_e, Name: Propionate (n-C3:0), Formula: C3H5O2, Compartment: e
+ID: ppbng_c, Name: Porphobilinogen, Formula: C10H13N2O4, Compartment: c
+ID: ppcoa_c, Name: Propanoyl-CoA, Formula: C24H36N7O17P3S, Compartment: c
+ID: ppgpp_c, Name: Guanosine 3',5'-bis(diphosphate), Formula: C10H11N5O17P4, Compartment: c
+ID: pphn_c, Name: Prephenate, Formula: C10H8O6, Compartment: c
+ID: ppi_c, Name: Diphosphate, Formula: HO7P2, Compartment: c
+ID: ppp9_c, Name: Protoporphyrin, Formula: C34H32N4O4, Compartment: c
+ID: pppg9_c, Name: Protoporphyrinogen IX, Formula: C34H38N4O4, Compartment: c
+ID: pppi_c, Name: Inorganic triphosphate, Formula: HO10P3, Compartment: c
+ID: ppt_c, Name: Phosphonate, Formula: HO3P, Compartment: c
+ID: ppt_e, Name: Phosphonate, Formula: HO3P, Compartment: e
+ID: pram_c, Name: 5-Phospho-beta-D-ribosylamine, Formula: C5H11NO7P, Compartment: c
+ID: pran_c, Name: N-(5-Phospho-D-ribosyl)anthranilate, Formula: C12H13NO9P, Compartment: c
+ID: prbamp_c, Name: 1-(5-Phosphoribosyl)-AMP, Formula: C15H19N5O14P2, Compartment: c
+ID: prbatp_c, Name: 1-(5-Phosphoribosyl)-ATP, Formula: C15H19N5O20P4, Compartment: c
+ID: prfp_c, Name: 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide, Formula: C15H21N5O15P2, Compartment: c
+ID: prlp_c, Name: 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide, Formula: C15H21N5O15P2, Compartment: c
+ID: progly_c, Name: L-Prolinylglycine, Formula: C7H12N2O3, Compartment: c
+ID: progly_e, Name: L-Prolinylglycine, Formula: C7H12N2O3, Compartment: e
+ID: pro__L_c, Name: L-Proline, Formula: C5H9NO2, Compartment: c
+ID: pro__L_e, Name: L-Proline, Formula: C5H9NO2, Compartment: e
+ID: protein_c, Name: protein, Formula: C19H38N5O10PS, Compartment: c
+ID: protrna_c, Name: L-Prolyl-tRNA(Pro), Formula: C5H8NOR, Compartment: c
+ID: prpp_c, Name: 5-Phospho-alpha-D-ribose 1-diphosphate, Formula: C5H8O14P3, Compartment: c
+ID: pser__L_c, Name: O-Phospho-L-serine, Formula: C3H6NO6P, Compartment: c
+ID: pser__L_e, Name: O-Phospho-L-serine, Formula: C3H6NO6P, Compartment: e
+ID: ptrc_c, Name: Putrescine, Formula: C4H14N2, Compartment: c
+ID: ptrc_e, Name: Putrescine, Formula: C4H14N2, Compartment: e
+ID: pyam5p_c, Name: Pyridoxamine 5'-phosphate, Formula: C8H12N2O5P, Compartment: c
+ID: pydam_c, Name: Pyridoxamine, Formula: C8H13N2O2, Compartment: c
+ID: pydx_c, Name: Pyridoxal, Formula: C8H9NO3, Compartment: c
+ID: pydx_e, Name: Pyridoxal, Formula: C8H9NO3, Compartment: e
+ID: pydx5p_c, Name: Pyridoxal 5'-phosphate, Formula: C8H8NO6P, Compartment: c
+ID: pydxn_c, Name: Pyridoxine, Formula: C8H11NO3, Compartment: c
+ID: pyr_c, Name: Pyruvate, Formula: C3H3O3, Compartment: c
+ID: pyr_e, Name: Pyruvate, Formula: C3H3O3, Compartment: e
+ID: q8_c, Name: Ubiquinone-8, Formula: C49H74O4, Compartment: c
+ID: q8h2_c, Name: Ubiquinol-8, Formula: C49H76O4, Compartment: c
+ID: quln_c, Name: Quinolinate, Formula: C7H3NO4, Compartment: c
+ID: r5p_c, Name: alpha-D-Ribose 5-phosphate, Formula: C5H9O8P, Compartment: c
+ID: r5p_e, Name: alpha-D-Ribose 5-phosphate, Formula: C5H9O8P, Compartment: e
+ID: rbl__L_c, Name: rbl-L, Formula: C5H10O5, Compartment: c
+ID: rdmbzi_c, Name: rdmbzi, Formula: C14H18N2O4, Compartment: c
+ID: rhcys_c, Name: S-Ribosyl-L-homocysteine, Formula: C9H17NO6S, Compartment: c
+ID: rib__D_c, Name: D-Ribose, Formula: C5H10O5, Compartment: c
+ID: rib__D_e, Name: D-Ribose, Formula: C5H10O5, Compartment: e
+ID: ribflv_c, Name: Riboflavin, Formula: C17H20N4O6, Compartment: c
+ID: rna_c, Name: rna, Formula: C28H33N11O23P3, Compartment: c
+ID: ru5p__D_c, Name: D-Ribulose 5-phosphate, Formula: C5H9O8P, Compartment: c
+ID: s_c, Name: Sulfur, Formula: S, Compartment: c
+ID: s7p_c, Name: Sedoheptulose 7-phosphate, Formula: C7H13O10P, Compartment: c
+ID: sarcs_c, Name: Sarcosine, Formula: C3H7NO2, Compartment: c
+ID: sbt6p_c, Name: D-Sorbitol 6-phosphate, Formula: C6H13O9P, Compartment: c
+ID: sbt__D_e, Name: D-Sorbitol, Formula: C6H14O6, Compartment: e
+ID: sbzcoa_c, Name: O-Succinylbenzoyl-CoA, Formula: C32H39N7O20P3S, Compartment: c
+ID: ser__D_c, Name: D-Serine, Formula: C3H7NO3, Compartment: c
+ID: ser__D_e, Name: D-Serine, Formula: C3H7NO3, Compartment: e
+ID: ser__L_c, Name: L-Serine, Formula: C3H7NO3, Compartment: c
+ID: ser__L_e, Name: L-Serine, Formula: C3H7NO3, Compartment: e
+ID: sertrna_c, Name: L-Seryl-tRNA(Ser), Formula: C3H6NO2R, Compartment: c
+ID: skm_c, Name: Shikimate, Formula: C7H9O5, Compartment: c
+ID: skm_e, Name: Shikimate, Formula: C7H9O5, Compartment: e
+ID: skm5p_c, Name: Shikimate 5-phosphate, Formula: C7H8O8P, Compartment: c
+ID: sl26da_c, Name: N-Succinyl-LL-2,6-diaminoheptanedioate, Formula: C11H16N2O7, Compartment: c
+ID: sl2a6o_c, Name: N-Succinyl-2-L-amino-6-oxoheptanedioate, Formula: C11H12NO8, Compartment: c
+ID: so3_c, Name: Sulfite, Formula: O3S, Compartment: c
+ID: so3_e, Name: Sulfite, Formula: SO3, Compartment: e
+ID: so4_c, Name: Sulfate, Formula: O4S, Compartment: c
+ID: so4_e, Name: Sulfate, Formula: O4S, Compartment: e
+ID: soluble_pool_c, Name: soluble-pool, Formula: C316H41N9O21P3S, Compartment: c
+ID: spmd_c, Name: Spermidine, Formula: C7H22N3, Compartment: c
+ID: spmd_e, Name: Spermidine, Formula: C7H22N3, Compartment: e
+ID: stcoa_c, Name: Stearoyl-CoA (n-C18:0CoA), Formula: C39H66N7O17P3S, Compartment: c
+ID: suc6p_c, Name: Sucrose 6-phosphate, Formula: C12H21O14P, Compartment: c
+ID: sucbz_c, Name: o-Succinylbenzoate, Formula: C11H8O5, Compartment: c
+ID: succ_c, Name: Succinate, Formula: C4H4O4, Compartment: c
+ID: succ_e, Name: Succinate, Formula: C4H4O4, Compartment: e
+ID: succoa_c, Name: Succinyl-CoA, Formula: C25H35N7O19P3S, Compartment: c
+ID: suchms_c, Name: suchms, Formula: C8H12NO6, Compartment: c
+ID: sucr_e, Name: Sucrose, Formula: C12H22O11, Compartment: e
+ID: sucsal_c, Name: Succinic semialdehyde, Formula: C4H5O3, Compartment: c
+ID: t3c11vaceACP_c, Name: trans-3-cis-11-vacceoyl-[acyl-carrier protein], Formula: C29H51N2O8PRS, Compartment: c
+ID: t3c5ddeceACP_c, Name: trans-3-cis-5-dodecenoyl-[acyl-carrier protein], Formula: C23H39N2O8PRS, Compartment: c
+ID: t3c7mrseACP_c, Name: trans-3-cis-7-myristoleoyl-[acyl-carrier protein], Formula: C25H43N2O8PRS, Compartment: c
+ID: t3c9palmeACP_c, Name: trans-3-cis-9-palmitoleoyl-[acyl-carrier protein], Formula: C27H47N2O8PRS, Compartment: c
+ID: tag6p__D_c, Name: D-Tagatose 6-phosphate, Formula: C6H11O9P, Compartment: c
+ID: tagdp__D_c, Name: D-Tagatose 1,6-biphosphate, Formula: C6H10O12P2, Compartment: c
+ID: tau_c, Name: tau, Formula: C2H7NO3S, Compartment: c
+ID: tcynt_c, Name: Thiocyanate, Formula: CNS, Compartment: c
+ID: tcynt_e, Name: Thiocyanate, Formula: CNS, Compartment: e
+ID: td2coa_c, Name: td2coa, Formula: C35H56N7O17P3S, Compartment: c
+ID: tdcm_c, Name: tdcm, Formula: C4118H75O29P2, Compartment: c
+ID: tdcoa_c, Name: Tetradecanoyl-CoA (n-C14:0CoA), Formula: C35H58N7O17P3S, Compartment: c
+ID: tddec2eACP_c, Name: trans-Dodec-2-enoyl-[acyl-carrier protein], Formula: C23H41N2O8PRS, Compartment: c
+ID: tdeACP_c, Name: cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1), Formula: C25H45N2O8PRS, Compartment: c
+ID: tdec2eACP_c, Name: trans-Dec-2-enoyl-[acyl-carrier protein], Formula: C21H37N2O8PRS, Compartment: c
+ID: tdecoa_c, Name: Tetradecenoyl-CoA (n-C14:1CoA), Formula: C35H56N7O17P3S, Compartment: c
+ID: thcd_c, Name: 3D-(3,5/4)-Trihydroxycyclohexane-1,2-dione, Formula: C6H8O5, Compartment: c
+ID: thdp_c, Name: 2,3,4,5-Tetrahydrodipicolinate, Formula: C7H7NO4, Compartment: c
+ID: thex2eACP_c, Name: trans-Hex-2-enoyl-[acyl-carrier protein], Formula: C17H29N2O8PRS, Compartment: c
+ID: thf_c, Name: 5,6,7,8-Tetrahydrofolate, Formula: C19H21N7O6, Compartment: c
+ID: thm_c, Name: Thiamin, Formula: C12H17N4OS, Compartment: c
+ID: thm_e, Name: Thiamin, Formula: C12H17N4OS, Compartment: e
+ID: thmmp_c, Name: Thiamin monophosphate, Formula: C12H16N4O4PS, Compartment: c
+ID: thmpp_c, Name: Thiamin diphosphate, Formula: C12H16N4O7P2S, Compartment: c
+ID: thptdn_c, Name: thptdn, Formula: C6H10N4, Compartment: c
+ID: thr__L_c, Name: L-Threonine, Formula: C4H9NO3, Compartment: c
+ID: thr__L_e, Name: L-Threonine, Formula: C4H9NO3, Compartment: e
+ID: thrtrna_c, Name: L-Threonyl-tRNA(Thr), Formula: C4H8NO2R, Compartment: c
+ID: thymd_c, Name: Thymidine, Formula: C10H14N2O5, Compartment: c
+ID: thymd_e, Name: Thymidine, Formula: C10H14N2O5, Compartment: e
+ID: tma_e, Name: trimethylamine, Formula: C3H10N, Compartment: e
+ID: tmao_e, Name: Trimethylamine N-oxide, Formula: C3H9NO, Compartment: e
+ID: tmcm_c, Name: tmcm, Formula: C298H53O15P, Compartment: c
+ID: tmrs2eACP_c, Name: trans-Tetradec-2-enoyl-[acyl-carrier protein], Formula: C25H45N2O8PRS, Compartment: c
+ID: toct2eACP_c, Name: trans-Oct-2-enoyl-[acyl-carrier protein], Formula: C19H33N2O8PRS, Compartment: c
+ID: toctd2eACP_c, Name: trans-octadec-2-enoyl-[acyl-carrier protein], Formula: C29H53N2O8PRS, Compartment: c
+ID: tpalm2eACP_c, Name: trans-Hexadec-2-enoyl-[acyl-carrier protein], Formula: C27H49N2O8PRS, Compartment: c
+ID: trdox_c, Name: Oxidized thioredoxin, Formula: X, Compartment: c
+ID: trdrd_c, Name: Reduced thioredoxin, Formula: XH2, Compartment: c
+ID: tre_c, Name: Trehalose, Formula: C12H22O11, Compartment: c
+ID: tre_e, Name: Trehalose, Formula: C12H22O11, Compartment: e
+ID: tre6p_c, Name: alpha,alpha'-Trehalose 6-phosphate, Formula: C12H21O14P, Compartment: c
+ID: trnaala_c, Name: tRNA(Ala), Formula: R, Compartment: c
+ID: trnaarg_c, Name: tRNA(Arg), Formula: R, Compartment: c
+ID: trnaasn_c, Name: tRNA(Asn), Formula: C10H17O10PR2, Compartment: c
+ID: trnaasp_c, Name: tRNA(Asp), Formula: R, Compartment: c
+ID: trnacys_c, Name: tRNA(Cys), Formula: R, Compartment: c
+ID: trnagln_c, Name: tRNA(Gln), Formula: R, Compartment: c
+ID: trnaglu_c, Name: tRNA (Glu), Formula: R, Compartment: c
+ID: trnagly_c, Name: tRNA(Gly), Formula: R, Compartment: c
+ID: trnahis_c, Name: tRNA(His), Formula: R, Compartment: c
+ID: trnaile_c, Name: tRNA(Ile), Formula: R, Compartment: c
+ID: trnaleu_c, Name: tRNA(Leu), Formula: R, Compartment: c
+ID: trnalys_c, Name: tRNA(Lys), Formula: R, Compartment: c
+ID: trnamet_c, Name: tRNA(Met), Formula: R, Compartment: c
+ID: trnaphe_c, Name: tRNA(Phe), Formula: R, Compartment: c
+ID: trnapro_c, Name: tRNA(Pro), Formula: R, Compartment: c
+ID: trnasecys_c, Name: tRNA(SeCys), Formula: R, Compartment: c
+ID: trnaser_c, Name: tRNA(Ser), Formula: R, Compartment: c
+ID: trnathr_c, Name: tRNA(Thr), Formula: R, Compartment: c
+ID: trnatrp_c, Name: tRNA(Trp), Formula: R, Compartment: c
+ID: trnatyr_c, Name: tRNA(Tyr), Formula: R, Compartment: c
+ID: trnaval_c, Name: tRNA(Val), Formula: R, Compartment: c
+ID: trp__L_c, Name: L-Tryptophan, Formula: C11H12N2O2, Compartment: c
+ID: trp__L_e, Name: L-Tryptophan, Formula: C11H12N2O2, Compartment: e
+ID: trptrna_c, Name: L-Tryptophanyl-tRNA(Trp), Formula: C11H11N2OR, Compartment: c
+ID: tsul_c, Name: Thiosulfate, Formula: O3S2, Compartment: c
+ID: tsul_e, Name: Thiosulfate, Formula: HS2O3, Compartment: e
+ID: ttdca_c, Name: tetradecanoate (n-C14:0), Formula: C14H27O2, Compartment: c
+ID: ttdca_e, Name: tetradecanoate (n-C14:0), Formula: C14H27O2, Compartment: e
+ID: ttdcap_c, Name: Tetradecanoyl-phosphate (n-C14:0), Formula: C14H28O5P, Compartment: c
+ID: ttdcea_c, Name: tetradecenoate (n-C14:1), Formula: C14H25O2, Compartment: c
+ID: ttdcea_e, Name: tetradecenoate (n-C14:1), Formula: C14H25O2, Compartment: e
+ID: ttdceap_c, Name: Tetradecanoyl-phosphate (n-C14:1), Formula: C14H26O5P, Compartment: c
+ID: tungs_c, Name: tungstate, Formula: O4W1, Compartment: c
+ID: tyr__L_c, Name: L-Tyrosine, Formula: C9H11NO3, Compartment: c
+ID: tyr__L_e, Name: L-Tyrosine, Formula: C9H11NO3, Compartment: e
+ID: tyrtrna_c, Name: L-Tyrosyl-tRNA(Tyr), Formula: C9H10NO2R, Compartment: c
+ID: u23ga_c, Name: UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine, Formula: C43H75N3O20P2, Compartment: c
+ID: u3aga_c, Name: UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine, Formula: C31H51N3O19P2, Compartment: c
+ID: u3hga_c, Name: UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine, Formula: C29H50N3O18P2, Compartment: c
+ID: uaagmda_c, Name: Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala, Formula: C95H152N8O28P2, Compartment: c
+ID: uaccg_c, Name: uaccg, Formula: C20H26N3O19P2, Compartment: c
+ID: uacgam_c, Name: UDP-N-acetyl-D-glucosamine, Formula: C17H25N3O17P2, Compartment: c
+ID: uacgam_e, Name: UDP-N-acetyl-D-glucosamine, Formula: C17H25N3O17P2, Compartment: e
+ID: uagmda_c, Name: uagmda, Formula: C87H139N7O23P2, Compartment: c
+ID: uama_c, Name: UDP-N-acetylmuramoyl-L-alanine, Formula: C23H33N4O20P2, Compartment: c
+ID: uamag_c, Name: UDP-N-acetylmuramoyl-L-alanyl-D-glutamate, Formula: C28H39N5O23P2, Compartment: c
+ID: uamr_c, Name: UDP-N-acetylmuramate, Formula: C20H28N3O19P2, Compartment: c
+ID: udcpdp_c, Name: Undecaprenyl diphosphate, Formula: C55H89O7P2, Compartment: c
+ID: udcpp_c, Name: Undecaprenyl phosphate, Formula: C55H89O4P, Compartment: c
+ID: udp_c, Name: UDP, Formula: C9H11N2O12P2, Compartment: c
+ID: udpara_c, Name: udpara, Formula: C14H20N2O16P2, Compartment: c
+ID: udpg_c, Name: UDPglucose, Formula: C15H22N2O17P2, Compartment: c
+ID: udpg_e, Name: UDPglucose, Formula: C15H22N2O17P2, Compartment: e
+ID: udpgal_c, Name: UDPgalactose, Formula: C15H22N2O17P2, Compartment: c
+ID: udpgal_e, Name: UDPgalactose, Formula: C15H22N2O17P2, Compartment: e
+ID: udpgalfur_c, Name: UDP-D-galacto-1,4-furanose, Formula: C15H22N2O17P2, Compartment: c
+ID: udpglcur_c, Name: UDP-D-glucuronate, Formula: C15H19N2O18P2, Compartment: c
+ID: udpglcur_e, Name: UDP-D-glucuronate, Formula: C15H19N2O18P2, Compartment: e
+ID: ugmd_c, Name: UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate, Formula: C35H51N7O26P2, Compartment: c
+ID: ugmda_c, Name: UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine, Formula: C41H61N9O28P2, Compartment: c
+ID: ump_c, Name: UMP, Formula: C9H11N2O9P, Compartment: c
+ID: ump_e, Name: UMP, Formula: C9H11N2O9P, Compartment: e
+ID: uppg3_c, Name: Uroporphyrinogen III, Formula: C40H36N4O16, Compartment: c
+ID: ura_c, Name: Uracil, Formula: C4H4N2O2, Compartment: c
+ID: ura_e, Name: Uracil, Formula: C4H4N2O2, Compartment: e
+ID: urea_c, Name: Urea, Formula: CH4N2O, Compartment: c
+ID: urea_e, Name: Urea, Formula: CH4N2O, Compartment: e
+ID: uri_c, Name: Uridine, Formula: C9H12N2O6, Compartment: c
+ID: uri_e, Name: Uridine, Formula: C9H12N2O6, Compartment: e
+ID: utp_c, Name: UTP, Formula: C9H11N2O15P3, Compartment: c
+ID: val__L_c, Name: L-Valine, Formula: C5H11NO2, Compartment: c
+ID: val__L_e, Name: L-Valine, Formula: C5H11NO2, Compartment: e
+ID: valtrna_c, Name: L-Valyl-tRNA(Val), Formula: C5H10NOR, Compartment: c
+ID: wco_c, Name: wco, Formula: C10H10N5O8PS2W, Compartment: c
+ID: xan_c, Name: Xanthine, Formula: C5H4N4O2, Compartment: c
+ID: xan_e, Name: Xanthine, Formula: C5H4N4O2, Compartment: e
+ID: xdp_c, Name: XDP, Formula: C10H11N4O12P2, Compartment: c
+ID: xmp_c, Name: Xanthosine 5'-phosphate, Formula: C10H11N4O9P, Compartment: c
+ID: xmp_e, Name: Xanthosine 5'-phosphate, Formula: C10H11N4O9P, Compartment: e
+ID: xtp_c, Name: XTP, Formula: C10H11N4O15P3, Compartment: c
+ID: xtsn_c, Name: Xanthosine, Formula: C10H12N4O6, Compartment: c
+ID: xtsn_e, Name: Xanthosine, Formula: C10H12N4O6, Compartment: e
+ID: xu5p__D_c, Name: D-Xylulose 5-phosphate, Formula: C5H9O8P, Compartment: c
+ID: xyl__D_c, Name: D-Xylose, Formula: C5H10O5, Compartment: c
+ID: xyl__D_e, Name: D-Xylose, Formula: C5H10O5, Compartment: e
+ID: xylu__D_c, Name: D-Xylulose, Formula: C5H10O5, Compartment: c
+ID: xylu__L_c, Name: L-Xylulose, Formula: C5H10O5, Compartment: c
+ID: xylu__L_e, Name: L-Xylulose, Formula: C5H10O5, Compartment: e
+ID: zn2_c, Name: Zinc, Formula: Zn, Compartment: c
+ID: zn2_e, Name: Zinc, Formula: Zn, Compartment: e
+
+Reactions:
+ID: biomass_dilution, Name: 
+Equation: biomass --> 
+Lower Bound: mu, Upper Bound: mu
+ID: protein_biomass_to_biomass, Name: 
+Equation: protein_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: mRNA_biomass_to_biomass, Name: 
+Equation: mRNA_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: tRNA_biomass_to_biomass, Name: 
+Equation: tRNA_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: rRNA_biomass_to_biomass, Name: 
+Equation: rRNA_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: ncRNA_biomass_to_biomass, Name: 
+Equation: ncRNA_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: DNA_biomass_to_biomass, Name: 
+Equation: DNA_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: lipid_biomass_to_biomass, Name: 
+Equation: lipid_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: constituent_biomass_to_biomass, Name: 
+Equation: constituent_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: prosthetic_group_biomass_to_biomass, Name: 
+Equation: prosthetic_group_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: peptidoglycan_biomass_to_biomass, Name: 
+Equation: peptidoglycan_biomass --> biomass
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_26dap__M_e, Name: 
+Equation: 26dap__M_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_3amp_e, Name: 
+Equation: 3amp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_3cmp_e, Name: 
+Equation: 3cmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_3gmp_e, Name: 
+Equation: 3gmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_3ump_e, Name: 
+Equation: 3ump_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_4abut_e, Name: 
+Equation: 4abut_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ac_e, Name: 
+Equation: ac_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_acald_e, Name: 
+Equation: acald_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_acgam_e, Name: 
+Equation: acgam_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_acgam1p_e, Name: 
+Equation: acgam1p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_acmana_e, Name: 
+Equation: acmana_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_acser_e, Name: 
+Equation: acser_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ade_e, Name: 
+Equation: ade_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_adn_e, Name: 
+Equation: adn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_akg_e, Name: 
+Equation: akg_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ala_L_e, Name: 
+Equation: ala__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_alaala_e, Name: 
+Equation: alaala_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ala_B_e, Name: 
+Equation: ala_B_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ala__D_e, Name: 
+Equation: ala__D_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_amp_e, Name: 
+Equation: amp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_arg_L_e, Name: 
+Equation: arg__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_asn_L_e, Name: 
+Equation: asn__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_asp_L_e, Name: 
+Equation: asp__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ca2_e, Name: 
+Equation: ca2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_cgly_e, Name: 
+Equation: cgly_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_cit_e, Name: 
+Equation: cit_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_cmp_e, Name: 
+Equation: cmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_co2_e, Name: 
+Equation: co2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_cobalt2_e, Name: 
+Equation: cobalt2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_cu_e, Name: 
+Equation: cu_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_cu2_e, Name: 
+Equation: cu2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_cyan_e, Name: 
+Equation: cyan_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_cys_L_e, Name: 
+Equation: cys__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_cytd_e, Name: 
+Equation: cytd_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dad_2_e, Name: 
+Equation: dad_2_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_damp_e, Name: 
+Equation: damp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dcmp_e, Name: 
+Equation: dcmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dcyt_e, Name: 
+Equation: dcyt_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dgmp_e, Name: 
+Equation: dgmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dgsn_e, Name: 
+Equation: dgsn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dha_e, Name: 
+Equation: dha_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dimp_e, Name: 
+Equation: dimp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_din_e, Name: 
+Equation: din_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dms_e, Name: 
+Equation: dms_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dmso_e, Name: 
+Equation: dmso_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dtmp_e, Name: 
+Equation: dtmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_dump_e, Name: 
+Equation: dump_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_duri_e, Name: 
+Equation: duri_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_etha_e, Name: 
+Equation: etha_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_etoh_e, Name: 
+Equation: etoh_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_f6p_e, Name: 
+Equation: f6p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_fe2_e, Name: 
+Equation: fe2_e <-- 
+Lower Bound: -1000.0, Upper Bound: 0.0
+ID: EX_fe3_e, Name: 
+Equation: fe3_e <-- 
+Lower Bound: -1000.0, Upper Bound: 0.0
+ID: EX_for_e, Name: 
+Equation: for_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_fru_e, Name: 
+Equation: fru_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_fruur_e, Name: 
+Equation: fruur_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_fum_e, Name: 
+Equation: fum_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g1p_e, Name: 
+Equation: g1p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g3pe_e, Name: 
+Equation: g3pe_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g3pg_e, Name: 
+Equation: g3pg_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g3pi_e, Name: 
+Equation: g3pi_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g3ps_e, Name: 
+Equation: g3ps_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_g6p_e, Name: 
+Equation: g6p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gal1p_e, Name: 
+Equation: gal1p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gam_e, Name: 
+Equation: gam_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gam6p_e, Name: 
+Equation: gam6p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glc_e, Name: 
+Equation: glc__D_e <=> 
+Lower Bound: -4.67, Upper Bound: 1000.0
+ID: EX_glcn_e, Name: 
+Equation: glcn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glcur_e, Name: 
+Equation: glcur_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glcur1p_e, Name: 
+Equation: glcur1p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gln_L_e, Name: 
+Equation: gln__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glu_L_e, Name: 
+Equation: glu__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gly_e, Name: 
+Equation: gly_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glyald_e, Name: 
+Equation: glyald_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glyc_e, Name: 
+Equation: glyc_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glyc_R_e, Name: 
+Equation: glyc__R_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_glyc3p_e, Name: 
+Equation: glyc3p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gmp_e, Name: 
+Equation: gmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gsn_e, Name: 
+Equation: gsn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gthrd_e, Name: 
+Equation: gthrd_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_gua_e, Name: 
+Equation: gua_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_h_e, Name: 
+Equation: h_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_h2_e, Name: 
+Equation: h2_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_h2o_e, Name: 
+Equation: h2o_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_h2s_e, Name: 
+Equation: h2s_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_his_L_e, Name: 
+Equation: his__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_hom__L_e, Name: 
+Equation: hom__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_hxan_e, Name: 
+Equation: hxan_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ile_L_e, Name: 
+Equation: ile__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_imp_e, Name: 
+Equation: imp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_indole_e, Name: 
+Equation: indole_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_inost_e, Name: 
+Equation: inost_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ins_e, Name: 
+Equation: ins_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_k_e, Name: 
+Equation: k_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_lac_D_e, Name: 
+Equation: lac__D_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_lac_L_e, Name: 
+Equation: lac__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_leu_L_e, Name: 
+Equation: leu__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_lys_L_e, Name: 
+Equation: lys__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_mal__L_e, Name: 
+Equation: mal__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_malt_e, Name: 
+Equation: malt_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_man_e, Name: 
+Equation: man_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_man6p_e, Name: 
+Equation: man6p_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_met_L_e, Name: 
+Equation: met__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_mg2_e, Name: 
+Equation: mg2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_mn2_e, Name: 
+Equation: mn2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_mnl_e, Name: 
+Equation: mnl_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_n2o_e, Name: 
+Equation: n2o_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_na1_e, Name: 
+Equation: na1_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_nac_e, Name: 
+Equation: nac_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_nh4_e, Name: 
+Equation: nh4_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_ni2_e, Name: 
+Equation: ni2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_nmn_e, Name: 
+Equation: nmn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_no_e, Name: 
+Equation: no_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_no2_e, Name: 
+Equation: no2_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_no3_e, Name: 
+Equation: no3_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_o2_e, Name: 
+Equation: o2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_o2s_e, Name: 
+Equation: o2s_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_orn_e, Name: 
+Equation: orn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_orot_e, Name: 
+Equation: orot_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_phe_L_e, Name: 
+Equation: phe__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_pheme_e, Name: 
+Equation: pheme_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_pi_e, Name: 
+Equation: pi_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_pnto__R_e, Name: 
+Equation: pnto__R_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ppa_e, Name: 
+Equation: ppa_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ppt_e, Name: 
+Equation: ppt_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_pro_L_e, Name: 
+Equation: pro__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_progly_e, Name: 
+Equation: progly_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_pydx_e, Name: 
+Equation: pydx_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_pyr_e, Name: 
+Equation: pyr_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_rib__D_e, Name: 
+Equation: rib__D_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_sbt__D_e, Name: 
+Equation: sbt__D_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ser_L_e, Name: 
+Equation: ser__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_skm_e, Name: 
+Equation: skm_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_so3_e, Name: 
+Equation: so3_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_so4_e, Name: 
+Equation: so4_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_succ_e, Name: 
+Equation: succ_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_sucr_e, Name: 
+Equation: sucr_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tcynt_e, Name: 
+Equation: tcynt_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_thr_L_e, Name: 
+Equation: thr__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_thymd_e, Name: 
+Equation: thymd_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tma_e, Name: 
+Equation: tma_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tmao_e, Name: 
+Equation: tmao_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tre_e, Name: 
+Equation: tre_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_trp_L_e, Name: 
+Equation: trp__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tsul_e, Name: 
+Equation: tsul_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_tyr_L_e, Name: 
+Equation: tyr__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_uacgam_e, Name: 
+Equation: uacgam_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_udpg_e, Name: 
+Equation: udpg_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_udpgal_e, Name: 
+Equation: udpgal_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_udpglcur_e, Name: 
+Equation: udpglcur_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ump_e, Name: 
+Equation: ump_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_ura_e, Name: 
+Equation: ura_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_urea_e, Name: 
+Equation: urea_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_uri_e, Name: 
+Equation: uri_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_val_L_e, Name: 
+Equation: val__L_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_xan_e, Name: 
+Equation: xan_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_xmp_e, Name: 
+Equation: xmp_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_xtsn_e, Name: 
+Equation: xtsn_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_xyl__D_e, Name: 
+Equation: xyl__D_e --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_zn2_e, Name: 
+Equation: zn2_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_biomass, Name: 
+Equation: biomass_c --> 
+Lower Bound: 0.0, Upper Bound: 1000.0
+ID: EX_BIOTIN, Name: 
+Equation: btn_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
+ID: EX_cl, Name: 
+Equation: cl_e <=> 
+Lower Bound: -1000.0, Upper Bound: 1000.0
